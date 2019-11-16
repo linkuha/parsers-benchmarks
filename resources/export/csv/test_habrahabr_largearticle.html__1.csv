@@ -1,0 +1,21 @@
+"DOMDocument",1.72 MB,2.2061,3386
+"DOMDocument + DOMXPath",1.74 MB,0.19,3386
+"Регулярные выражения",1.39 MB,0.0178,2532
+"Функции обработки строк",1.99 MB,0.6952,3386
+"Expat SAX (Tidy, создание структуры)",1.63 MB,0.8797,3385
+"Zend Dom Query (XPath)",2.10 MB,0.3654,3386
+"Zend Dom Query (CSS)",2.11 MB,0.3637,3386
+"Symfony 2.8 DomCrawler (XPath)",1.71 MB,0.3784,3386
+"Symfony 2.8 DomCrawler (CSS)",1.71 MB,0.5143,3386
+"DiDom (XPath)",1.71 MB,0.2595,3386
+"DiDom (CSS)",1.71 MB,0.2628,3386
+"Simple HTML DOM",320 bytes,0.0001,0
+"Advanced HTML DOM (XPath)",1.71 MB,0.3621,3386
+"Advanced HTML DOM (CSS)",1.71 MB,0.3764,3386
+"Nokogiri PHP",-1881584 bytes,0.3247,3386
+"HTML5lib PHP (SAX-like)",1.71 MB,62.4949,3386
+"phpQuery",1.80 MB,10.3288,3386
+"QueryPath",1.80 MB,2.4753,3386
+"Fluent DOM (XPath)",1.80 MB,0.209,3386
+"fDOMDocument (XPath)",1.43 MB,0.2403,3386
+"fDOMDocument (CSS)",1.71 MB,0.1867,3386

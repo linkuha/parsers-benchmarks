@@ -1,0 +1,24 @@
+﻿"http://comsip.ru";"Функции обработки строк";30200;0.0445;44
+"http://comsip.ru";"DOMDocument";29136;0.083;40
+"http://comsip.ru";"DOMDocument + DOMXPath";29144;0.0725;40
+"http://comsip.ru";"Регулярные выражения";22160;0.0141;39
+"http://comsip.ru";"Expat SAX (Tidy, создание структуры)";539488;0.6444;36
+"http://comsip.ru";"Zend Dom Query (CSS)";153640;0.0253;40
+"http://comsip.ru";"Zend Dom Query (XPath)";122896;0.0888;40
+"http://comsip.ru";"Symfony 2.8 DomCrawler (XPath)";283376;0.0894;40
+"http://comsip.ru";"DiDom (XPath)";366816;0.0668;40
+"http://comsip.ru";"Symfony 2.8 DomCrawler (CSS)";719920;0.5813;40
+"http://comsip.ru";"DiDom (CSS)";367200;0.0069;40
+"http://comsip.ru";"Advanced HTML DOM (XPath)";394008;0.0794;40
+"http://comsip.ru";"Advanced HTML DOM (CSS)";394000;0.0316;40
+"http://comsip.ru";"Nokogiri PHP";121344;0.0662;40
+"http://comsip.ru";"Simple HTML DOM";1892640;0.1751;40
+"http://comsip.ru";"phpQuery";1393920;0.2941;40
+"http://comsip.ru";"QueryPath";959064;0.5495;40
+"http://comsip.ru";"Fluent DOM (XPath)";361032;0.4076;40
+"http://comsip.ru";"Fluent DOM (CSS)";671152;0.6858;40
+"http://comsip.ru";"HTML5lib PHP (SAX-like)";1127232;1.3203;40
+"http://comsip.ru";"fDOMDocument (XPath)";305768;0.1655;40
+"http://comsip.ru";"fDOMDocument (CSS)";360584;0.1154;40
+"http://comsip.ru";"Ganon";3309792;2.8409;40
+"http://comsip.ru";"PhantomJS";44504;10.6141;47

@@ -1,0 +1,11 @@
+https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains
+https://habrahabr.ru/users/
+https://habrahabr.ru/post/70330/
+https://www.google.ru/search?hl=ru&q=parsing+php
+https://en.blog.wordpress.com/
+
+http://www.iana.org/assignments/media-types/media-types.xhtml
+http://pear.php.net/feeds/popular.rss
+
+http://www.ozon.ru/context/detail/id/2643202/
+http://partner.market.yandex.ru/pages/help/shops.dtd

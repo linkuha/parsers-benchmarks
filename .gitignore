@@ -1,0 +1,7 @@
+.idea
+.git
+bin/
+runtime/tmp/*
+vendor/
+composer.phar
+composer.lock

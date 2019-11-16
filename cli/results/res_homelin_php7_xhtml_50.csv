@@ -1,0 +1,24 @@
+doctype;parser;file;max mem dif;parser s;real s;user s;sys s;maximum RSS
+xhtml;didom_css;test_iana_longlist.xhtml;3803976;3.0140750408173;3.04;3.02;0.02;36536
+xhtml;didom_xpath;test_iana_longlist.xhtml;3803624;2.9540109634399;2.98;2.96;0.01;36656
+xhtml;dom;test_iana_longlist.xhtml;2409824;52.250426054001;52.28;52.27;0.04;34164
+xhtml;dom_xpath;test_iana_longlist.xhtml;3124592;2.745786190033;2.77;2.67;0.09;36248
+xhtml;expat_struct;test_iana_longlist.xhtml;19751760;5.081680059433;5.10;4.62;0.32;40988
+xhtml;fdom_css;test_iana_longlist.xhtml;4058056;4.7714848518372;5.19;1.96;3.23;409892
+xhtml;fdom_xpath;test_iana_longlist.xhtml;3855152;3.0903890132904;3.51;2.78;0.72;409660
+xhtml;fluentdom_css;test_iana_longlist.xhtml;3721352;2.8151659965515;3.23;2.94;0.30;410392
+xhtml;fluentdom_xpath;test_iana_longlist.xhtml;3507904;2.9462900161743;2.97;2.93;0.04;36372
+xhtml;ganon_css;test_iana_longlist.xhtml;0;0;300.06;298.22;1.88;59500
+xhtml;html5lib;test_iana_longlist.xhtml;4402736;80.337746143341;80.37;80.38;0.04;34868
+xhtml;nokogiri_css;test_iana_longlist.xhtml;6983752;3.8615350723267;3.89;3.86;0.02;40952
+xhtml;phantomjs;test_iana_longlist.xhtml;0;0;0.02;0.01;0.00;20120
+xhtml;phpquery_css;test_iana_longlist.xhtml;3851280;121.47400689125;121.89;121.22;0.77;411924
+xhtml;querypath_css;test_iana_longlist.xhtml;4098464;55.814027070999;55.85;55.84;0.05;36444
+xhtml;regexp;test_iana_longlist.xhtml;4351544;0.46776509284973;0.49;0.48;0.00;25976
+xhtml;shd_css;test_iana_longlist.xhtml;52646248;46.345599889755;46.97;46.89;0.08;75824
+xhtml;simplexml_xpath;test_iana_longlist.xhtml;604416;0.70183801651001;0.73;0.65;0.07;27668
+xhtml;string;test_iana_longlist.xhtml;3271728;1.7256691455841;1.74;1.73;0.01;23916
+xhtml;symfony_css;test_iana_longlist.xhtml;3936152;4.7764339447021;4.80;4.80;0.01;36868
+xhtml;symfony_xpath;test_iana_longlist.xhtml;3653752;3.2798490524292;3.31;3.29;0.01;36524
+xhtml;zend_css;test_iana_longlist.xhtml;3891656;11.924540042877;11.96;11.85;0.11;36376
+xhtml;zend_xpath;test_iana_longlist.xhtml;3867512;12.014616012573;12.06;11.97;0.09;36520

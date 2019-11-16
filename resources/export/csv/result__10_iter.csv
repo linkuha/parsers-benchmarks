@@ -1,0 +1,22 @@
+﻿"http://seo.local/resources/test_google.html";"Регулярные выражения";85.82 kB;0.0214;119
+"http://seo.local/resources/test_google.html";"DOMDocument + DOMXPath";80.73 kB;0.2759;129
+"http://seo.local/resources/test_google.html";"DOMDocument";80.73 kB;0.2957;129
+"http://seo.local/resources/test_google.html";"Zend Dom Query (CSS)";96.36 kB;0.3395;129
+"http://seo.local/resources/test_google.html";"Zend Dom Query (XPath)";96.36 kB;0.3615;129
+"http://seo.local/resources/test_google.html";"Symfony 2.8 DomCrawler (XPath)";80.73 kB;0.4496;129
+"http://seo.local/resources/test_google.html";"DiDom (XPath)";80.73 kB;0.2822;129
+"http://seo.local/resources/test_google.html";"DiDom (CSS)";80.73 kB;0.3022;129
+"http://seo.local/resources/test_google.html";"Symfony 2.8 DomCrawler (CSS)";80.73 kB;0.5304;129
+"http://seo.local/resources/test_google.html";"Функции обработки строк";301.27 kB;1.2612;129
+"http://seo.local/resources/test_google.html";"Advanced HTML DOM (XPath)";88.07 kB;0.3759;129
+"http://seo.local/resources/test_google.html";"Advanced HTML DOM (CSS)";88.07 kB;0.3938;129
+"http://seo.local/resources/test_google.html";"Nokogiri PHP";79.92 kB;0.3656;129
+"http://seo.local/resources/test_google.html";"Fluent DOM (XPath)";80.73 kB;0.2692;129
+"http://seo.local/resources/test_google.html";"QueryPath";80.73 kB;0.4284;129
+"http://seo.local/resources/test_google.html";"fDOMDocument (XPath)";88.66 kB;0.2615;129
+"http://seo.local/resources/test_google.html";"fDOMDocument (CSS)";148.04 kB;0.3005;129
+"http://seo.local/resources/test_google.html";"PhantomJS";0 bytes;0.0001;0
+"http://seo.local/resources/test_google.html";"phpQuery";93.15 kB;1.3381;129
+"http://seo.local/resources/test_google.html";"Simple HTML DOM";3.56 MB;2.9246;129
+"http://seo.local/resources/test_google.html";"Expat SAX (Tidy, создание структуры)";82.02 kB;4.6129;138
+"http://seo.local/resources/test_google.html";"HTML5lib PHP (SAX-like)";80.73 kB;14.3993;129

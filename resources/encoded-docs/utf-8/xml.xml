@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog>
+<yml_catalog date="2016-12-05 14:20">
+  <shop>
+    <name>OZON.ru</name>
+    <company>ООО "Интернет Решения"</company>
+    <url>http://www.ozon.ru/</url>
+    <currencies>
+      <currency id="RUR" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1178077">Мячи</category>
+    </categories>
+    <offers>
+      <offer id="UTF-8 ссылка 链接 صلة €" available="true" group_id="29584016">
+        <url>http://www.ozon.ru/context/detail/id/29583956/?from=prt_xml_facet</url>
+        <price>609</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1010805128.JPG</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Larsen "Kicker Run". Размер 5</name>
+        <vendor>Larsen</vendor>
+        <vendorCode>1319</vendorCode>
+        <description>Футбольный мяч Larsen "Kicker Run" подойдет для игры на улице. Он выполнен из синтетической кожи и ПВХ. Матовая поверхность. Имеет 4 слоя подкладочного материала - 2 слоя поликоттон и 2 хлопок. Ручная сшивка. 32 панели. Камера выполнена из латекса, с бутиловым ниппелем. Окружность: 68-69 см. УВАЖАЕМЫЕ КЛИЕНТЫ! Просим обратить ваше внимание на тот факт, что мяч поставляется в сдутом состоянии и надувается при помощи насоса (насос не входит (входит) в комплект).</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4607060513615</barcode>
+        <weight>0.430</weight>
+        <dimensions>18.000/18.000/13.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Назначение">Для спорта</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вид мяча">Надувной</param>
+        <param name="Размер">5</param>
+        <param name="Материал">ПВХ (поливинилхлорид), Поликоттон, Хлопок, Латекс, Искусственная кожа</param>
+        <param name="Вес" unit="г">430</param>
+        <param name="Ширина упаковки" unit="мм">180</param>
+        <param name="Высота упаковки" unit="мм">130</param>
+        <param name="Глубина упаковки" unit="мм">180</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>

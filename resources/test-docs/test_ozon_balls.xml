@@ -1,0 +1,1988 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2016-12-05 14:20">
+  <shop>
+    <name>OZON.ru</name>
+    <company>ООО "Интернет Решения"</company>
+    <url>http://www.ozon.ru/</url>
+    <currencies>
+      <currency id="RUR" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1178077">Мячи</category>
+    </categories>
+    <offers>
+      <offer id="29583956" available="true" group_id="29584016">
+        <url>http://www.ozon.ru/context/detail/id/29583956/?from=prt_xml_facet</url>
+        <price>609</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1010805128.JPG</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Larsen "Kicker Run". Размер 5</name>
+        <vendor>Larsen</vendor>
+        <vendorCode>1319</vendorCode>
+        <description>Футбольный мяч Larsen "Kicker Run" подойдет для игры на улице. Он выполнен из синтетической кожи и ПВХ. Матовая поверхность. Имеет 4 слоя подкладочного материала - 2 слоя поликоттон и 2 хлопок. Ручная сшивка. 32 панели. Камера выполнена из латекса, с бутиловым ниппелем. Окружность: 68-69 см. УВАЖАЕМЫЕ КЛИЕНТЫ! Просим обратить ваше внимание на тот факт, что мяч поставляется в сдутом состоянии и надувается при помощи насоса (насос не входит (входит) в комплект).</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4607060513615</barcode>
+        <weight>0.430</weight>
+        <dimensions>18.000/18.000/13.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Назначение">Для спорта</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вид мяча">Надувной</param>
+        <param name="Размер">5</param>
+        <param name="Материал">ПВХ (поливинилхлорид), Поликоттон, Хлопок, Латекс, Искусственная кожа</param>
+        <param name="Вес" unit="г">430</param>
+        <param name="Ширина упаковки" unit="мм">180</param>
+        <param name="Высота упаковки" unit="мм">130</param>
+        <param name="Глубина упаковки" unit="мм">180</param>
+      </offer>
+      <offer id="29583957" available="true" group_id="29584055">
+        <url>http://www.ozon.ru/context/detail/id/29583957/?from=prt_xml_facet</url>
+        <price>1670</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1010805142.JPG</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Larsen 10. Размер 5</name>
+        <vendor>Larsen</vendor>
+        <vendorCode>232255</vendorCode>
+        <description>Футбольный мяч Larsen 10 подойдет для игры на всех покрытиях. Он выполнен из синтетической кожи и полиуретана. Глянцевая поверхность. Имеет 4 слоя подкладочного материала - 3 слоя поликоттон и 1 хлопок. Ручная сшивка. 32 панели. Камера выполнена из латекса, с бутиловым ниппелем. Окружность: 68-69 см.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4690222044850</barcode>
+        <weight>0.430</weight>
+        <dimensions>20.000/20.000/10.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Назначение">Для спорта</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вид мяча">Надувной</param>
+        <param name="Размер">5</param>
+        <param name="Материал">Латекс, Полиуретан, Хлопок, Поликоттон, Искусственная кожа</param>
+        <param name="Вес" unit="г">430</param>
+        <param name="Ширина упаковки" unit="мм">200</param>
+        <param name="Высота упаковки" unit="мм">100</param>
+        <param name="Глубина упаковки" unit="мм">200</param>
+      </offer>
+      <offer id="29583958" available="true" group_id="29584056">
+        <url>http://www.ozon.ru/context/detail/id/29583958/?from=prt_xml_facet</url>
+        <price>949</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1010805143.JPG</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Larsen "Axeler", цвет: синий, серебряный. Размер 5</name>
+        <vendor>Larsen</vendor>
+        <vendorCode>235941</vendorCode>
+        <description>Футбольный мяч Larsen "Axeler" подойдет для игры на всех покрытиях. Он выполнен из синтетической кожи и полиуретана. Глянцевая поверхность. Имеет 4 слоя подкладочного материала - 3 слоя поликоттон и 1 хлопок. Ручная сшивка. 26 панелей. Камера выполнена из латекса, с бутиловым ниппелем. Окружность: 68-69 см.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4690222046878</barcode>
+        <weight>0.440</weight>
+        <dimensions>20.000/20.000/13.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Назначение">Для спорта</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вид мяча">Надувной</param>
+        <param name="Размер">5</param>
+        <param name="Материал">Полиуретан, Поликоттон, Хлопок, Латекс, Искусственная кожа</param>
+        <param name="Вес" unit="г">440</param>
+        <param name="Ширина упаковки" unit="мм">200</param>
+        <param name="Высота упаковки" unit="мм">130</param>
+        <param name="Глубина упаковки" unit="мм">200</param>
+      </offer>
+      <offer id="29583961" available="true" group_id="29584019">
+        <url>http://www.ozon.ru/context/detail/id/29583961/?from=prt_xml_facet</url>
+        <price>1339</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1010805150.JPG</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Larsen "Futsal Sala". Размер 3</name>
+        <vendor>Larsen</vendor>
+        <vendorCode>31944</vendorCode>
+        <description>Футбольный мяч Larsen "Futsal Sala" подойдет для игры на всех покрытиях. Он выполнен из синтетической кожи и полиуретана. Матовая поверхность. Имеет 3 слоя подкладочного материала - 2 слоя поликоттон и 1 хлопок. Ручная сшивка. 32 панели. Камера выполнена из латекса с наполнителем из полиэстера. Окружность: 63,5-66 см .</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4607060518078</barcode>
+        <weight>0.460</weight>
+        <dimensions>19.000/19.000/12.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Назначение">Для спорта</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">3</param>
+        <param name="Материал">Полиуретан, Поликоттон, Хлопок, Латекс, Полиэстер, Искусственная кожа</param>
+        <param name="Вес" unit="г">460</param>
+        <param name="Ширина упаковки" unit="мм">190</param>
+        <param name="Высота упаковки" unit="мм">120</param>
+        <param name="Глубина упаковки" unit="мм">190</param>
+      </offer>
+      <offer id="29583963" available="true" group_id="29584021">
+        <url>http://www.ozon.ru/context/detail/id/29583963/?from=prt_xml_facet</url>
+        <price>849</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1010805152.JPG</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Larsen "Lux", цвет: золотой. Размер 5</name>
+        <vendor>Larsen</vendor>
+        <vendorCode>60637</vendorCode>
+        <description>Мяч футбольный Larsen "Lux" подойдет для игры на всех покрытиях. Он выполнен из синтетической кожи и полиуретана. Глянцевая поверхность. Имеет 4 слоя подкладочного материала - 3 слоя поликоттон и 1 хлопок. Ручная сшивка. 32 панели. Камера выполнена из латекса, с бутиловым ниппелем. Окружность: 68-69 см.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4607060516203</barcode>
+        <weight>0.440</weight>
+        <dimensions>19.000/19.000/14.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Назначение">Для спорта</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вид мяча">Надувной</param>
+        <param name="Размер">5</param>
+        <param name="Материал">Искусственная кожа, Полиуретан, Латекс, Поликоттон, Хлопок</param>
+        <param name="Вес" unit="г">440</param>
+        <param name="Ширина упаковки" unit="мм">190</param>
+        <param name="Высота упаковки" unit="мм">140</param>
+        <param name="Глубина упаковки" unit="мм">190</param>
+      </offer>
+      <offer id="29583964" available="true" group_id="29584021">
+        <url>http://www.ozon.ru/context/detail/id/29583964/?from=prt_xml_facet</url>
+        <price>809</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1010805153.JPG</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Larsen "Lux", цвет: серебряный. Размер 5</name>
+        <vendor>Larsen</vendor>
+        <vendorCode>60638</vendorCode>
+        <description>Мяч футбольный Larsen "Lux" подойдет для игры на всех покрытиях. Он выполнен из синтетической кожи и полиуретана. Глянцевая поверхность. Имеет 4 слоя подкладочного материала - 3 слоя поликоттон и 1 хлопок. Ручная сшивка. 32 панели. Камера выполнена из латекса, с бутиловым ниппелем. Окружность: 68-69 см.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <weight>0.440</weight>
+        <dimensions>19.000/19.000/14.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Назначение">Для спорта</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вид мяча">Надувной</param>
+        <param name="Размер">5</param>
+        <param name="Материал">Искусственная кожа, Полиуретан, Латекс, Поликоттон, Хлопок</param>
+        <param name="Вес" unit="г">440</param>
+        <param name="Ширина упаковки" unit="мм">190</param>
+        <param name="Высота упаковки" unit="мм">140</param>
+        <param name="Глубина упаковки" unit="мм">190</param>
+      </offer>
+      <offer id="29583968" available="true" group_id="29584017">
+        <url>http://www.ozon.ru/context/detail/id/29583968/?from=prt_xml_facet</url>
+        <price>864</price>
+        <oldprice>1080</oldprice>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1010805129.JPG</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Larsen "Pep", цвет: белый, черный. Размер 5</name>
+        <vendor>Larsen</vendor>
+        <vendorCode>1323</vendorCode>
+        <description>Футбольный мяч Larsen "Pep" подойдет для игры на всех покрытиях. Он выполнен из синтетической кожи и полиуретана. Матовая поверхность. Имеет 4 слоя подкладочного материала - 3 слоя поликоттон и 1 поливискоза. Ручная сшивка. 32 панели. Камера выполнена из латекса, с бутиловым ниппелем. Окружность: 68-69 см.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4607060513639</barcode>
+        <weight>0.460</weight>
+        <dimensions>20.000/20.000/10.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Назначение">Для спорта</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вид мяча">Надувной</param>
+        <param name="Размер">5</param>
+        <param name="Материал">Полиуретан, Поликоттон, Поливискоза, Латекс, Искусственная кожа</param>
+        <param name="Вес" unit="г">460</param>
+        <param name="Ширина упаковки" unit="мм">200</param>
+        <param name="Высота упаковки" unit="мм">100</param>
+        <param name="Глубина упаковки" unit="мм">200</param>
+      </offer>
+      <offer id="29583969" available="true" group_id="29584018">
+        <url>http://www.ozon.ru/context/detail/id/29583969/?from=prt_xml_facet</url>
+        <price>829</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1010805130.JPG</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Larsen "Pak", цвет: белый, черный. Размер 5</name>
+        <vendor>Larsen</vendor>
+        <vendorCode>1330</vendorCode>
+        <description>Футбольный мяч Larsen "Pak" подойдет для игры на всех покрытиях. Он выполнен из синтетической кожи и полиуретана. Глянцевая поверхность. Имеет 4 слоя подкладочного материала - 3 слоя поликоттон и 1 хлопок. Ручная сшивка. 32 панели. Камера выполнена из латекса, с бутиловым ниппелем. Окружность: 68-69 см.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4607060513677</barcode>
+        <weight>0.450</weight>
+        <dimensions>20.000/20.000/10.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Назначение">Для спорта</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вид мяча">Надувной</param>
+        <param name="Размер">5</param>
+        <param name="Материал">Латекс, Полиуретан, Поликоттон, Хлопок, Искусственная кожа</param>
+        <param name="Вес" unit="г">450</param>
+        <param name="Ширина упаковки" unit="мм">200</param>
+        <param name="Высота упаковки" unit="мм">100</param>
+        <param name="Глубина упаковки" unit="мм">200</param>
+      </offer>
+      <offer id="31471070" available="true" group_id="31471115">
+        <url>http://www.ozon.ru/context/detail/id/31471070/?from=prt_xml_facet</url>
+        <price>1119.2</price>
+        <oldprice>1399</oldprice>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1011854290.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный "Molten", цвет: белый, черный, синий. Размер 5</name>
+        <vendor>Molten</vendor>
+        <vendorCode>F5V1700</vendorCode>
+        <description>Футбольный мяч "Molten" отлично подойдет для школьных тренировок или для отдыха. Он выполнен из прочной ПВХ синтетической кожи и сшит вручную. Долговечен, имеет яркий окрас.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>490574182865</barcode>
+        <weight>0.440</weight>
+        <dimensions>18.000/18.000/13.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Назначение">Для спорта</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вид мяча">Надувной</param>
+        <param name="Размер">5</param>
+        <param name="Материал">ПВХ (поливинилхлорид)</param>
+        <param name="Диаметр, см">19</param>
+        <param name="Вес" unit="г">440</param>
+        <param name="Ширина упаковки" unit="мм">180</param>
+        <param name="Высота упаковки" unit="мм">130</param>
+        <param name="Глубина упаковки" unit="мм">180</param>
+      </offer>
+      <offer id="31471071" available="true" group_id="31471115">
+        <url>http://www.ozon.ru/context/detail/id/31471071/?from=prt_xml_facet</url>
+        <price>1399</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1011765972.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный "Molten", цвет: белый, черный, серый. Размер 5</name>
+        <vendor>Molten</vendor>
+        <vendorCode>F5V1700-K</vendorCode>
+        <description>Футбольный мяч "Molten" отлично подойдет для школьных тренировок или для отдыха. Он выполнен из прочной ПВХ синтетической кожи и сшит вручную. Долговечен, имеет яркий окрас.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>490574182867</barcode>
+        <weight>0.625</weight>
+        <dimensions>18.000/18.000/13.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Назначение">Для спорта</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вид мяча">Надувной</param>
+        <param name="Размер">5</param>
+        <param name="Материал">ПВХ (поливинилхлорид)</param>
+        <param name="Диаметр, см">19</param>
+        <param name="Вес" unit="г">625</param>
+        <param name="Ширина упаковки" unit="мм">180</param>
+        <param name="Высота упаковки" unit="мм">130</param>
+        <param name="Глубина упаковки" unit="мм">180</param>
+      </offer>
+      <offer id="31471072" available="true" group_id="31471118">
+        <url>http://www.ozon.ru/context/detail/id/31471072/?from=prt_xml_facet</url>
+        <price>2799</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1011766018.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футзальный "Molten", цвет: белый, синий, черный. Размер 4</name>
+        <vendor>Molten</vendor>
+        <vendorCode>F9V1900</vendorCode>
+        <description>Футзальный мяч "Molten" отлично подойдет для клубных тренировок. Выполнен из синтетической кожи. Хорошо держит форму. Ручное шитье. Отличное соотношение цена/качество.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>490574182876</barcode>
+        <weight>0.420</weight>
+        <dimensions>18.000/18.000/18.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Назначение">Для спорта</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вид мяча">Надувной</param>
+        <param name="Размер">4</param>
+        <param name="Материал">Искусственная кожа</param>
+        <param name="Диаметр, см">18</param>
+        <param name="Вес" unit="г">420</param>
+        <param name="Ширина упаковки" unit="мм">180</param>
+        <param name="Высота упаковки" unit="мм">180</param>
+        <param name="Глубина упаковки" unit="мм">180</param>
+      </offer>
+      <offer id="31471074" available="true" group_id="31471120">
+        <url>http://www.ozon.ru/context/detail/id/31471074/?from=prt_xml_facet</url>
+        <price>1299</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1011854279.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный "Molten", цвет: белый, черный, синий. Размер 4</name>
+        <vendor>Molten</vendor>
+        <vendorCode>F4V1700</vendorCode>
+        <description>Футбольный мяч "Molten" отлично подойдет для школьных тренировок или для отдыха. Он выполнен из прочной ПВХ синтетической кожи и сшит вручную. Долговечен, имеет яркий окрас.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>490574182910</barcode>
+        <weight>0.370</weight>
+        <dimensions>17.000/17.000/13.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Назначение">Для спорта</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вид мяча">Надувной</param>
+        <param name="Размер">4</param>
+        <param name="Материал">ПВХ (поливинилхлорид)</param>
+        <param name="Диаметр, см">18</param>
+        <param name="Вес" unit="г">370</param>
+        <param name="Ширина упаковки" unit="мм">170</param>
+        <param name="Высота упаковки" unit="мм">130</param>
+        <param name="Глубина упаковки" unit="мм">170</param>
+      </offer>
+      <offer id="135987780" available="true" group_id="135987798">
+        <url>http://www.ozon.ru/context/detail/id/135987780/?from=prt_xml_facet</url>
+        <price>2645</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1015976788.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный "Molten". Размер 5. F5V3750</name>
+        <vendor>Molten</vendor>
+        <vendorCode>F5V3750</vendorCode>
+        <description>Футбольный мяч для клубных тренировок и соревнований:изготовлен по технологии Vantaggio - многослойная конструкция улучшает форму мяча; покрышка из синтетической кожи (полиуретан); ручное шитье; инспектирован FIFA.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4905741828615</barcode>
+        <weight>0.420</weight>
+        <dimensions>22.000/20.000/11.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Вес" unit="г">420</param>
+        <param name="Ширина упаковки" unit="мм">200</param>
+        <param name="Высота упаковки" unit="мм">110</param>
+        <param name="Глубина упаковки" unit="мм">220</param>
+      </offer>
+      <offer id="135987781" available="true" group_id="135987799">
+        <url>http://www.ozon.ru/context/detail/id/135987781/?from=prt_xml_facet</url>
+        <price>3135</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1015976789.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный "Molten". Размер 5. F5V4800</name>
+        <vendor>Molten</vendor>
+        <vendorCode>F5V4800</vendorCode>
+        <description>Футбольный мяч профессионального уровня одобрен FIFA для проведения матчей. Покрышка из синтетической кожи (полиуретан) обладает высокими износостойкими характеристиками. Благодаря камере из натурального латекса мяч становится мягче, стабильней, улучшается траектория полета.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4905741828608</barcode>
+        <weight>0.420</weight>
+        <dimensions>22.000/20.000/12.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Вес" unit="г">420</param>
+        <param name="Ширина упаковки" unit="мм">200</param>
+        <param name="Высота упаковки" unit="мм">120</param>
+        <param name="Глубина упаковки" unit="мм">220</param>
+      </offer>
+      <offer id="138219465" available="true" group_id="138219489">
+        <url>http://www.ozon.ru/context/detail/id/138219465/?from=prt_xml_facet</url>
+        <price>912</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1015804643.JPG</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Atlas "Dot". Размер 5</name>
+        <vendor>Atlas</vendor>
+        <vendorCode>28261915</vendorCode>
+        <description>Основные характеристики Тип: футбольный Размер: 5 Окружность: 68см Количество панелей: 32 Количество подкладочных слоев: 4 Вес: 425гр. Материалы камеры: латекс с бутиловым нипелем Материал покрышки: синтетическая кожа (полиуретан) Вид покрытия: универсальное (глянец) Тип соединения панелей: ручная сшивка Цвет: основной - белый, элементы - голубой/черный/золотистый Вид применения: средний/любительский уровень игры в футбол Страна-производитель: Пакистан Упаковка: полиэтиленовый пакет со стикером (поставляется в сдутом виде) Предназначен для проведения соревнований и игр команд среднего и любительского уровней, отлично подходит и для интенсивных тренировок. Подходит для игры на любых поверхностях, но особенно рекомендуется для натуральных и искусственных газонов, полей с синтетическим покрытием различной степени жесткости. Подходит для игры в любых погодных условиях (при соблюдении условий эксплуатации и ухода).</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>2400000014133</barcode>
+        <weight>0.310</weight>
+        <dimensions>20.000/20.000/12.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Вес" unit="г">310</param>
+        <param name="Ширина упаковки" unit="мм">200</param>
+        <param name="Высота упаковки" unit="мм">120</param>
+        <param name="Глубина упаковки" unit="мм">200</param>
+      </offer>
+      <offer id="138219466" available="true" group_id="138219490">
+        <url>http://www.ozon.ru/context/detail/id/138219466/?from=prt_xml_facet</url>
+        <price>1072</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1015804644.JPG</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Atlas "Style". Размер 5</name>
+        <vendor>Atlas</vendor>
+        <vendorCode>28261916</vendorCode>
+        <description>Основные характеристики Тип: футбольный Размер: 5 Окружность: 68см Количество панелей: 32 Количество подкладочных слоев: 4 Вес: 425гр. Материалы камеры: латекс с бутиловым нипелем Материал покрышки: синтетическая кожа (полиуретан) Вид покрытия: универсальное (глянец) Тип соединения панелей: ручная сшивка Цвет: основной - белый, элементы - красный/золотистый/черный Вид применения: средний/любительский уровень игры в футбол Страна-производитель: Пакистан Упаковка: полиэтиленовый пакет со стикером (поставляется в сдутом виде) Предназначен для проведения соревнований и игр команд среднего и любительского уровней, отлично подходит и для интенсивных тренировок. Подходит для игры на любых поверхностях, но особенно рекомендуется для натуральных и искусственных газонов, полей с синтетическим покрытием различной степени жесткости. Подходит для игры в любых погодных условиях (при соблюдении условий эксплуатации и ухода).</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>2400000014140</barcode>
+        <weight>0.355</weight>
+        <dimensions>20.000/20.000/14.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Вес" unit="г">355</param>
+        <param name="Ширина упаковки" unit="мм">200</param>
+        <param name="Высота упаковки" unit="мм">140</param>
+        <param name="Глубина упаковки" unit="мм">200</param>
+      </offer>
+      <offer id="138219467" available="true" group_id="138219491">
+        <url>http://www.ozon.ru/context/detail/id/138219467/?from=prt_xml_facet</url>
+        <price>1735</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1015804615.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Torres "BM 500". Размер 5</name>
+        <vendor>TORRES</vendor>
+        <vendorCode>28259596</vendorCode>
+        <description>Основные характеристики Тип: футбольный Размер: 5 Окружность: 68-70см Количество панелей: 32 Количество подкладочных слоев: 4 Вес: 410-450гр Материалы камеры: латексная Материал покрышки: матовый полиуретан Тип соединения панелей: ручная сшивка Цвет основной: белый Цвет дополнительный: серый, черный Вид применения: тренировочный уровень игры в футбол Подходит для игры на любых поверхностях в любых погодных условиях (при соблюдении условий эксплуатации и ухода) Страна-производитель: Пакистан Упаковка: полиэтиленовый пакет (поставляется в сдутом виде) Единственная в линейке School модель, рассчитанная на супержесткие поверхности за счет применения полиуретана с микрорельефной структурой.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>2400000014898</barcode>
+        <weight>0.410</weight>
+        <dimensions>22.000/22.000/13.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Вес" unit="г">410</param>
+        <param name="Ширина упаковки" unit="мм">220</param>
+        <param name="Высота упаковки" unit="мм">130</param>
+        <param name="Глубина упаковки" unit="мм">220</param>
+      </offer>
+      <offer id="138219468" available="true" group_id="138219492">
+        <url>http://www.ozon.ru/context/detail/id/138219468/?from=prt_xml_facet</url>
+        <price>1169</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1015804621.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Torres "Classic". Размер 5</name>
+        <vendor>TORRES</vendor>
+        <vendorCode>28260649</vendorCode>
+        <description>Основные характеристики Тип: футбольный Размер: 5 Окружность: 68-70см Количество панелей: 32 Количество подкладочных слоев: 4 Вес: 410-450гр Материалы камеры: латексная Материал покрышки: матовый полиуретан Тип соединения панелей: ручная сшивка Цвет основной: белый Цвет дополнительный: серый, черный Вид применения: тренировочный уровень игры в футбол Подходит для игры на любых поверхностях в любых погодных условиях (при соблюдении условий эксплуатации и ухода) Страна-производитель: Пакистан Упаковка: полиэтиленовый пакет (поставляется в сдутом виде) Надежный, хорошо зарекомендовавший себя мяч. Покрышка из имитирующего натуральную кожу полиуретана с микрорельефной структурой.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>2400000018148</barcode>
+        <weight>0.360</weight>
+        <dimensions>20.000/20.000/12.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Вес" unit="г">360</param>
+        <param name="Ширина упаковки" unit="мм">200</param>
+        <param name="Высота упаковки" unit="мм">120</param>
+        <param name="Глубина упаковки" unit="мм">200</param>
+      </offer>
+      <offer id="138219469" available="true" group_id="138219493">
+        <url>http://www.ozon.ru/context/detail/id/138219469/?from=prt_xml_facet</url>
+        <price>1808</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1015804614.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Torres "Free Style". Размер 5</name>
+        <vendor>TORRES</vendor>
+        <vendorCode>28259519</vendorCode>
+        <description>Основные характеристики Тип: футбольный Размер: 5 Окружность: 68-70см Количество панелей: 32 Количество подкладочных слоев: 4 Вес: 410-450гр Материалы камеры: латексная Материал покрышки: матовый полиуретан Тип соединения панелей: ручная сшивка Цвет основной: черный Цвет дополнительный: белый, золотой Вид применения: тренировочный уровень игры в футбол Подходит для игры на любых поверхностях в любых погодных условиях (при соблюдении условий эксплуатации и ухода) Страна-производитель: Пакистан Упаковка: полиэтиленовый пакет (поставляется в сдутом виде) Классический черно-белый футбольный мяч с панелями из рифленой синтетической кожи, устойчивой к трению и износу.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>2400000014904</barcode>
+        <weight>0.390</weight>
+        <dimensions>20.000/18.000/14.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Вес" unit="г">390</param>
+        <param name="Ширина упаковки" unit="мм">180</param>
+        <param name="Высота упаковки" unit="мм">140</param>
+        <param name="Глубина упаковки" unit="мм">200</param>
+      </offer>
+      <offer id="138219470" available="true" group_id="138219494">
+        <url>http://www.ozon.ru/context/detail/id/138219470/?from=prt_xml_facet</url>
+        <price>1702</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1015804612.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Torres "Main Stream". Размер 5</name>
+        <vendor>TORRES</vendor>
+        <vendorCode>28257037</vendorCode>
+        <description>Основные характеристики Тип: футбольный Размер: 5 Окружность: 68-70см Количество панелей: 32 Количество подкладочных слоев: 4 Вес: 410-450гр Материалы камеры: латексная Материал покрышки: матовый полиуретан Тип соединения панелей: ручная сшивка Цвет основной: белый Цвет дополнительный: черный Вид применения: тренировочный уровень игры в футбол Подходит для игры на любых поверхностях в любых погодных условиях (при соблюдении условий эксплуатации и ухода) Страна-производитель: Пакистан Упаковка: полиэтиленовый пакет (поставляется в сдутом виде) Main Stream - модель серии Basic, что называется "классика жанра": традиционный дизайн, и материал, имитирующий натуральную кожу. Мяч Main Stream относится к категории тренировочных мячей, но его с легкостью можно рекомендовать и для любительской игры.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>2000964017203</barcode>
+        <weight>0.350</weight>
+        <dimensions>21.000/21.000/13.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Вес" unit="г">350</param>
+        <param name="Ширина упаковки" unit="мм">210</param>
+        <param name="Высота упаковки" unit="мм">130</param>
+        <param name="Глубина упаковки" unit="мм">210</param>
+      </offer>
+      <offer id="138219471" available="true" group_id="138219495">
+        <url>http://www.ozon.ru/context/detail/id/138219471/?from=prt_xml_facet</url>
+        <price>1554</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1015804616.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Torres "Training". Размер 5</name>
+        <vendor>TORRES</vendor>
+        <vendorCode>28259597</vendorCode>
+        <description>Основные характеристики Тип: футбольный Размер: 5 Окружность: 68-70см Количество панелей: 32 Количество подкладочных слоев: 4 Вес: 410-450гр Материалы камеры: латексная Материал покрышки: матовый полиуретан Тип соединения панелей: ручная сшивка Цвет основной: белый Цвет дополнительный: салатовый, серебристый, черный Вид применения: тренировочный уровень игры в футбол Подходит для игры на любых поверхностях в любых погодных условиях (при соблюдении условий эксплуатации и ухода) Страна-производитель: Пакистан Упаковка: полиэтиленовый пакет (поставляется в сдутом виде) Настоящая "рабочая лошадка", обеспечивающая качественный тренировочный процесс для команд и клубов любительского уровня.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>2400000006152</barcode>
+        <weight>0.360</weight>
+        <dimensions>21.000/21.000/10.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Вес" unit="г">360</param>
+        <param name="Ширина упаковки" unit="мм">210</param>
+        <param name="Высота упаковки" unit="мм">100</param>
+        <param name="Глубина упаковки" unit="мм">210</param>
+      </offer>
+      <offer id="138255104" available="true" group_id="138255360">
+        <url>http://www.ozon.ru/context/detail/id/138255104/?from=prt_xml_facet</url>
+        <price>1359</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1015900137.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Puma "Arsenal Fan Ball", цвет: красный, темно-синий, белый, диаметр 21 см</name>
+        <vendor>Puma</vendor>
+        <vendorCode>08266801</vendorCode>
+        <description>Мяч Puma "Arsenal Fan Ball" прекрасно подойдет для фанатов ФК "Арсенал". Продемонстрируйте свою поддержку любимого клуба, приобретя этот мяч, сшитый из панелей и предназначенный для игр на любительском уровне и совершенствования технических приемов. Подложка из полиэстера и машинная прошивка создают такие характеристики мяча, которые обеспечивают удобство приема, сохранение формы, предсказуемость отскока, отличные аэродинамические качества. На поверхности мяча спереди и сзади нанесены две крупные эмблемы "Арсенала".</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4056206891450</barcode>
+        <weight>0.440</weight>
+        <dimensions>22.000/22.000/12.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Назначение">Для спорта</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вид мяча">Надувной</param>
+        <param name="Материал">ТПУ (термополиуретан), Полиэстер</param>
+        <param name="Диаметр, см">21</param>
+        <param name="Вес" unit="г">440</param>
+        <param name="Ширина упаковки" unit="мм">220</param>
+        <param name="Высота упаковки" unit="мм">120</param>
+        <param name="Глубина упаковки" unit="мм">220</param>
+      </offer>
+      <offer id="138376072" available="true" group_id="138376107">
+        <url>http://www.ozon.ru/context/detail/id/138376072/?from=prt_xml_facet</url>
+        <price>1089</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016146622.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футзальный Jogel "Optima", цвет: белый, лазурный, желтый. Размер 4. JF-400</name>
+        <vendor>Jogel</vendor>
+        <vendorCode>УТ-00009479</vendorCode>
+        <description>Jogel "Optima", оправдывая свое название, является оптимальным тренировочным футзальным мячом ручной сшивки из. Его отличительной особенностью является достойное соотношение технических характеристик и доступной цены. Данный мяч рекомендован для тренировок и тренировочных игр клубных и любительских команд. Поверхность мяча выполнена из износостойкой синтетической кожи (полиуретан) толщиной 1 мм. Мяч имеет 4 подкладочных слоя на нетканой основе (смесь хлопка с полиэстером) и оснащен бутиловой камерой со специальным наполнителем, обеспечивающим рекомендованный FIFA низкий отскок. Уникальной особенностью является традиционная конструкция мяча из 30 панелей. Рекомендованные покрытия: паркет, уличные площадки с твердыми ровными поверхностями. Количество подкладочных слоев: 4. Количество панелей: 30. Вес: 400-440 г. Длина окружности: 62-64 см. Рекомендованное давление: 0.6-0.8 бар. УВАЖЕМЫЕ КЛИЕНТЫ! Обращаем ваше внимание на тот факт, что мяч...</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4680019134154</barcode>
+        <weight>0.405</weight>
+        <dimensions>25.000/15.000/10.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Назначение">Для игры в зале</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вид мяча">Надувной</param>
+        <param name="Размер">4</param>
+        <param name="Материал">Полиуретан, Латекс, Полиэстер, Хлопок</param>
+        <param name="Диаметр, см">18</param>
+        <param name="Особенности">Ручная сшивка</param>
+        <param name="Вес" unit="г">405</param>
+        <param name="Ширина упаковки" unit="мм">150</param>
+        <param name="Высота упаковки" unit="мм">100</param>
+        <param name="Глубина упаковки" unit="мм">250</param>
+      </offer>
+      <offer id="138376073" available="true" group_id="138376109">
+        <url>http://www.ozon.ru/context/detail/id/138376073/?from=prt_xml_facet</url>
+        <price>1249</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016146623.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футзальный Jogel "Blaster", цвет: белый, красный, черный. Размер 4. JF-500</name>
+        <vendor>Jogel</vendor>
+        <vendorCode>УТ-00009480</vendorCode>
+        <description>Jogel "Blaster" - это качественный тренировочный футзальный мяч ручной сшивки, имеющий плотный материал покрышки, благодаря чему обеспечивается более мягкий контакт и максимальная прочность. Данный мяч рекомендован для тренировок и тренировочных игр клубных и любительских команд. Поверхность мяча выполнена из износостойкой синтетической кожи (полиуретан) толщиной 1,2 мм. Мяч имеет 4 подкладочных слоя на нетканой основе (смесь хлопка с полиэстером) и оснащен бутиловой камерой со специальным наполнителем, обеспечивающим рекомендованный FIFA низкий отскок. Уникальной особенностью является традиционная конструкция мяча из 30 панелей. Привлекательный дизайн ярко выделяет мяч на витрине. Официальный размер, вес и отскок FIFA. Рекомендованные покрытия: паркет, уличные площадки с твердыми ровными покрытиями. Количество подкладочных слоев: 4. Количество панелей: 30. Вес: 400-440 г. Длина окружности: 62-64 см Рекомендованное давление: 0,6-0,8 бар. ...</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4680019134161</barcode>
+        <weight>0.395</weight>
+        <dimensions>25.000/15.000/10.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Назначение">Для игры в зале</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вид мяча">Надувной</param>
+        <param name="Размер">4</param>
+        <param name="Материал">Латекс, Полиуретан, Хлопок, Полиэстер</param>
+        <param name="Диаметр, см">18</param>
+        <param name="Особенности">Ручная сшивка</param>
+        <param name="Вес" unit="г">395</param>
+        <param name="Ширина упаковки" unit="мм">150</param>
+        <param name="Высота упаковки" unit="мм">100</param>
+        <param name="Глубина упаковки" unit="мм">250</param>
+      </offer>
+      <offer id="138376074" available="true" group_id="138376111">
+        <url>http://www.ozon.ru/context/detail/id/138376074/?from=prt_xml_facet</url>
+        <price>679</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1015953879.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Jogel "Ultra", цвет: красный, красный, оранжевый, черный. Размер 5. JS-400</name>
+        <vendor>Jogel</vendor>
+        <vendorCode>УТ-00009471</vendorCode>
+        <description>Название: Мяч футбольный Jgel JS-400 Ultra №5 Категория: Любительский мяч Коллекция: 2016/2017 Описание: Jogel JS-400 Ultra - одна из самых популярных моделей любительских мячей ручной сшивки в коллекции Jogel. Его особенностью является сочетание доступной цены с долговечностью и неприхотливостью к игровым поверхностям. Данный мяч рекомендован для любительской игры и тренировок любительских команд. Поверхность мяча выполнена из прочной синтетической кожи (поливинилхлорид) толщиной 1,1 мм. Мяч имеет 4 подкладочных слоя на нетканой основе (смесь хлопка с полиэстером) и оснащен латексной камерой с бутиловым ниппелем, обеспечивающим долгое сохранение воздуха в камере. Уникальной особенностью бренда Jogel является традиционная конструкция мячей из 30 панелей. Привлекательный дизайн Коллекции 2016/2017 ярко выделяет мячи Jogel на витрине. Данный мяч прекрасно подходит для поставок на гос. тендеры. Мяч не рекомендован для игры при низких температурах (ниже +5С). При производстве мячей...</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4680019134062</barcode>
+        <weight>0.435</weight>
+        <dimensions>25.000/15.000/10.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Вес" unit="г">435</param>
+        <param name="Ширина упаковки" unit="мм">150</param>
+        <param name="Высота упаковки" unit="мм">100</param>
+        <param name="Глубина упаковки" unit="мм">250</param>
+      </offer>
+      <offer id="138376075" available="true" group_id="138376113">
+        <url>http://www.ozon.ru/context/detail/id/138376075/?from=prt_xml_facet</url>
+        <price>783</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1015953880.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Jogel "Force", цвет: белый, зеленый, желтый, черный. Размер 4. JS-450</name>
+        <vendor>Jogel</vendor>
+        <vendorCode>УТ-00009472</vendorCode>
+        <description>Название: Мяч футбольный Jgel JS-450 Force №4 Категория: Любительский мяч Коллекция: 2016/2017 Описание: Jogel JS-450 Force прекрасная любительская модель ручной сшивки. Force является улученной модификации модели Jogel JS-400 Ultra. Улучшения коснулись материала поверхности мяча, которая за счет добавления полиуретана получила дополнительную плотность и износостойкость. Размер №4 предназначается для тренировок детей в возрасте от 8 до 12 лет. Данный мяч рекомендован для любительской игры и тренировок любительских команд. Поверхность мяча выполнена из композитной синтетической кожи (смесь полиуретана и поливинилхлорид) толщиной 1,5 мм. Мяч имеет 4 подкладочных слоя на нетканой основе (смесь хлопка с полиэстером) и оснащен латексной камерой с бутиловым ниппелем, обеспечивающим долгое сохранение воздуха в камере. Уникальной особенностью бренда Jogel является традиционная конструкция мячей из 30 панелей. Привлекательный дизайн Коллекции 2016/2017 ярко выделяет мячи Jogel на витрине....</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4680019137438</barcode>
+        <weight>0.360</weight>
+        <dimensions>25.000/15.000/10.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">4</param>
+        <param name="Вес" unit="г">360</param>
+        <param name="Ширина упаковки" unit="мм">150</param>
+        <param name="Высота упаковки" unit="мм">100</param>
+        <param name="Глубина упаковки" unit="мм">250</param>
+      </offer>
+      <offer id="138376076" available="true" group_id="138376114">
+        <url>http://www.ozon.ru/context/detail/id/138376076/?from=prt_xml_facet</url>
+        <price>797</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1015953881.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Jogel "Force", цвет: белый, зеленый, желтый, черный. Размер 5. JS-450</name>
+        <vendor>Jogel</vendor>
+        <vendorCode>УТ-00009473</vendorCode>
+        <description>Название: Мяч футбольный Jgel JS-450 Force №5 Категория: Любительский мяч Коллекция: 2016/2017 Описание: Jogel JS-450 Force прекрасная любительская модель ручной сшивки. Force является улученной модификации модели Jogel JS-400 Ultra. Улучшения коснулись материала покрышки мяча, которая за счет добавления полиуретана получила дополнительную плотность и износостойкость. Данный мяч рекомендован для любительской игры и тренировок любительских команд. Поверхность мяча выполнена из композитной синтетической кожи (смесь полиуретана и поливинилхлорид) толщиной 1,5 мм. Мяч имеет 4 подкладочных слоя на нетканой основе (смесь хлопка с полиэстером) и оснащен латексной камерой с бутиловым ниппелем, обеспечивающим долгое сохранение воздуха в камере. Уникальной особенностью бренда Jogel является традиционная конструкция мячей из 30 панелей. Привлекательный дизайн Коллекции 2016/2017 ярко выделяет мячи Jogel на витрине. Данный мяч подходит для поставок на гос. тендеры. Мяч не рекомендован для игры...</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4680019137445</barcode>
+        <weight>0.435</weight>
+        <dimensions>25.000/15.000/10.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Вес" unit="г">435</param>
+        <param name="Ширина упаковки" unit="мм">150</param>
+        <param name="Высота упаковки" unit="мм">100</param>
+        <param name="Глубина упаковки" unit="мм">250</param>
+      </offer>
+      <offer id="138376077" available="true" group_id="138376116">
+        <url>http://www.ozon.ru/context/detail/id/138376077/?from=prt_xml_facet</url>
+        <price>957</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1015953882.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Jogel "Derby", цвет: белый, сиреневый, оранжевый, черный. Размер 3. JS-500</name>
+        <vendor>Jogel</vendor>
+        <vendorCode>УТ-00009474</vendorCode>
+        <description>Название: Мяч футбольный Jgel JS-500 Derby №3 Категория: Тренировочный мяч Коллекция: 2016/2017 Описание: Jogel JS-500 Derby классический тренировочный мяч ручной сшивки, один из самых популярных в текущей коллекции Jogel. Его отличительными особенностями являются прекрасные технические характеристики, соответствующие требованиям тренировочного процесса, и разумная цена. Размер №3 предназначается для тренировок детей в возрасте до 8 лет. Данный мяч рекомендован для тренировок и тренировочных игр клубных и любительских команд. Поверхность мяча выполнена из глянцевой синтетической кожи (полиуретан) толщиной 1,0 мм. Мяч имеет 4 подкладочных слоя на нетканой основе (смесь хлопка с полиэстером) и оснащен латексной камерой с бутиловым ниппелем, обеспечивающим долгое сохранение воздуха в камере. Уникальной особенностью бренда Jogel является традиционная конструкция мячей из 30 панелей. Привлекательный дизайн Коллекции 2016/2017 ярко выделяет мячи Jogel на витрине. Данный мяч подходит для...</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4680019134079</barcode>
+        <weight>0.501</weight>
+        <dimensions>0.000/0.000/0.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">3</param>
+        <param name="Вес" unit="г">501</param>
+        <param name="Ширина упаковки" unit="мм">0</param>
+        <param name="Высота упаковки" unit="мм">0</param>
+        <param name="Глубина упаковки" unit="мм">0</param>
+      </offer>
+      <offer id="138376078" available="true" group_id="138376117">
+        <url>http://www.ozon.ru/context/detail/id/138376078/?from=prt_xml_facet</url>
+        <price>972</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1015953883.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Jogel "Derby", цвет: белый, сиреневый, оранжевый, черный. Размер 4. JS-500</name>
+        <vendor>Jogel</vendor>
+        <vendorCode>УТ-00009475</vendorCode>
+        <description>Название: Мяч футбольный Jgel JS-500 Derby №4 Категория: Тренировочный мяч Коллекция: 2016/2017 Описание: Jogel JS-500 Derby классический тренировочный мяч ручной сшивки, один из самых популярных в текущей коллекции Jogel. Его отличительными особенностями являются прекрасные технические характеристики, соответствующие требованиям тренировочного процесса, и разумная цена. Размер №4 предназначается для тренировок детей в возрасте от 8 до 12 лет. Данный мяч рекомендован для тренировок и тренировочных игр клубных и любительских команд. Поверхность мяча выполнена из глянцевой синтетической кожи (полиуретан) толщиной 1,0 мм. Мяч имеет 4 подкладочных слоя на нетканой основе (смесь хлопка с полиэстером) и оснащен латексной камерой с бутиловым ниппелем, обеспечивающим долгое сохранение воздуха в камере. Уникальной особенностью бренда Jogel является традиционная конструкция мячей из 30 панелей. Привлекательный дизайн Коллекции 2016/2017 ярко выделяет мячи Jogel на витрине. Данный мяч подходит...</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4680019134086</barcode>
+        <weight>0.435</weight>
+        <dimensions>25.000/15.000/10.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">4</param>
+        <param name="Вес" unit="г">435</param>
+        <param name="Ширина упаковки" unit="мм">150</param>
+        <param name="Высота упаковки" unit="мм">100</param>
+        <param name="Глубина упаковки" unit="мм">250</param>
+      </offer>
+      <offer id="138376079" available="true" group_id="138376118">
+        <url>http://www.ozon.ru/context/detail/id/138376079/?from=prt_xml_facet</url>
+        <price>987</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1015953884.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Jogel "Derby", цвет: белый, сиреневый, оранжевый, черный. Размер 5. JS-500</name>
+        <vendor>Jogel</vendor>
+        <vendorCode>УТ-00009476</vendorCode>
+        <description>Название: Мяч футбольный Jgel JS-500 Derby №5 Категория: Тренировочный мяч Коллекция: 2016/2017 Описание: Jogel JS-500 Derby классический тренировочный мяч ручной сшивки, один из самых популярных в текущей коллекции Jogel. Его отличительными особенностями являются прекрасные технические характеристики, соответствующие требованиям тренировочного процесса, и разумная цена. Данный мяч рекомендован для тренировок и тренировочных игр клубных и любительских команд. Поверхность мяча выполнена из глянцевой синтетической кожи (полиуретан) толщиной 1,0 мм. Мяч имеет 4 подкладочных слоя на нетканой основе (смесь хлопка с полиэстером) и оснащен латексной камерой с бутиловым ниппелем, обеспечивающим долгое сохранение воздуха в камере. Уникальной особенностью бренда Jogel является традиционная конструкция мячей из 30 панелей. Привлекательный дизайн Коллекции 2016/2017 ярко выделяет мячи Jogel на витрине. Данный мяч подходит для поставок на гос. тендеры. При производстве мячей Jogel не...</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4680019134093</barcode>
+        <weight>0.435</weight>
+        <dimensions>25.000/15.000/10.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Вес" unit="г">435</param>
+        <param name="Ширина упаковки" unit="мм">150</param>
+        <param name="Высота упаковки" unit="мм">100</param>
+        <param name="Глубина упаковки" unit="мм">250</param>
+      </offer>
+      <offer id="138376080" available="true" group_id="138376120">
+        <url>http://www.ozon.ru/context/detail/id/138376080/?from=prt_xml_facet</url>
+        <price>1059</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1015953885.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Jogel "Nitro", цвет: белый, синий, бордовый, черный. Размер 5. JS-700</name>
+        <vendor>Jogel</vendor>
+        <vendorCode>УТ-00009477</vendorCode>
+        <description>Название: Мяч футбольный Jgel JS-700 Nitro №5 Категория: Тренировочный мяч Коллекция: 2016/2017 Описание: Jogel JS-700 Nitro превосходный мяч ручной сшивки тренировочного уровня, имеющий более плотный материал покрышки, чем у мяча Jogel JS-500 Derby, благодаря чему обеспечивается более мягкий контакт и максимальная прочность. Данный мяч рекомендован для тренировок и тренировочных игр клубных и любительских команд. Поверхность мяча выполнена из глянцевой синтетической кожи (полиуретан) толщиной 1,2 мм. Мяч имеет 4 подкладочных слоя на нетканой основе (смесь хлопка с полиэстером) и оснащен латексной камерой с бутиловым ниппелем, обеспечивающим долгое сохранение воздуха в камере. Уникальной особенностью бренда Jogel является традиционная конструкция мячей из 30 панелей. Привлекательный дизайн Коллекции 2016/2017 ярко выделяет мячи Jogel на витрине. Данный мяч подходит для поставок на гос. тендеры. При производстве мячей Jogel не используется детский труд. Официальный размер и вес FIFA....</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4680019134116</barcode>
+        <weight>0.430</weight>
+        <dimensions>25.000/15.000/10.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Вес" unit="г">430</param>
+        <param name="Ширина упаковки" unit="мм">150</param>
+        <param name="Высота упаковки" unit="мм">100</param>
+        <param name="Глубина упаковки" unit="мм">250</param>
+      </offer>
+      <offer id="138376081" available="true" group_id="138376122">
+        <url>http://www.ozon.ru/context/detail/id/138376081/?from=prt_xml_facet</url>
+        <price>1185</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1015953886.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Jogel "Elite", цвет: золотистый, фиолетовый, голубой, черный. Размер 5. JS-800</name>
+        <vendor>Jogel</vendor>
+        <vendorCode>УТ-00009478</vendorCode>
+        <description>Название: Мяч футбольный Jgel JS-800 Elite №5 Категория: Матчевый мяч Коллекция: 2016/2017 Описание: Jogel JS-800 Elite замечательный мяч ручной сшивки матчевого уровня, обладающий отличными игровыми и аэродинамическими характеристиками, благодаря высококачественным материалам, используемым при его изготовлении. Данный мяч рекомендован для тренировок и игр клубов среднего уровня, а также профессиональных команд. Поверхность мяча выполнена из глянцевой синтетической кожи (полиуретан) толщиной 1,5 мм с внутренним двухтонным рисунком. Мяч имеет 4 подкладочных слоя на нетканой основе (смесь хлопка с полиэстером) и оснащен латексной камерой с бутиловым ниппелем, обеспечивающим долгое сохранение воздуха в камере. Уникальной особенностью бренда Jogel является традиционная конструкция мячей из 30 панелей. Привлекательный дизайн Коллекции 2016/2017 ярко выделяет мячи Jogel на витрине. Данный мяч подходит для поставок на гос. тендеры. При производстве мячей Jogel не используется детский труд....</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4680019134130</barcode>
+        <weight>0.501</weight>
+        <dimensions>0.000/0.000/0.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Вес" unit="г">501</param>
+        <param name="Ширина упаковки" unit="мм">0</param>
+        <param name="Высота упаковки" unit="мм">0</param>
+        <param name="Глубина упаковки" unit="мм">0</param>
+      </offer>
+      <offer id="138394671" available="true" group_id="138394736">
+        <url>http://www.ozon.ru/context/detail/id/138394671/?from=prt_xml_facet</url>
+        <price>1628</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016164571.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный 2K Sport Advance, цвет: белый, зеленый. 127048. Размер 5</name>
+        <vendor>2K Sport</vendor>
+        <vendorCode>127048</vendorCode>
+        <description>Любительский футбольный мяч. Изготовлен из полиуретана. Бесшовная камера из натурального латекса. Ручная сшивка, клеевая герметизация швов.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4650055068614</barcode>
+        <weight>0.430</weight>
+        <dimensions>23.000/23.000/13.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Материал">Полиуретан, Латекс</param>
+        <param name="Вес" unit="г">430</param>
+        <param name="Ширина упаковки" unit="мм">230</param>
+        <param name="Высота упаковки" unit="мм">130</param>
+        <param name="Глубина упаковки" unit="мм">230</param>
+      </offer>
+      <offer id="138394672" available="true" group_id="138394737">
+        <url>http://www.ozon.ru/context/detail/id/138394672/?from=prt_xml_facet</url>
+        <price>1628</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016164572.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный 2K Sport Advance, цвет: белый, оранжевый. 127048. Размер 3</name>
+        <vendor>2K Sport</vendor>
+        <vendorCode>127048</vendorCode>
+        <description>Любительский футбольный мяч. Изготовлен из полиуретана. Бесшовная камера из натурального латекса. Ручная сшивка, клеевая герметизация швов.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4650055068621</barcode>
+        <weight>0.340</weight>
+        <dimensions>22.000/22.000/15.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">3</param>
+        <param name="Материал">Полиуретан, Латекс</param>
+        <param name="Вес" unit="г">340</param>
+        <param name="Ширина упаковки" unit="мм">220</param>
+        <param name="Высота упаковки" unit="мм">150</param>
+        <param name="Глубина упаковки" unit="мм">220</param>
+      </offer>
+      <offer id="138394673" available="true" group_id="138394738">
+        <url>http://www.ozon.ru/context/detail/id/138394673/?from=prt_xml_facet</url>
+        <price>1628</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016164573.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный 2K Sport Advance, цвет: белый, оранжевый. 127048. Размер 4</name>
+        <vendor>2K Sport</vendor>
+        <vendorCode>127048</vendorCode>
+        <description>Любительский футбольный мяч. Изготовлен из полиуретана. Бесшовная камера из натурального латекса. Ручная сшивка, клеевая герметизация швов.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4650055068638</barcode>
+        <weight>0.385</weight>
+        <dimensions>20.000/20.000/13.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">4</param>
+        <param name="Материал">Полиуретан, Латекс</param>
+        <param name="Вес" unit="г">385</param>
+        <param name="Ширина упаковки" unit="мм">200</param>
+        <param name="Высота упаковки" unit="мм">130</param>
+        <param name="Глубина упаковки" unit="мм">200</param>
+      </offer>
+      <offer id="138394674" available="true" group_id="138394739">
+        <url>http://www.ozon.ru/context/detail/id/138394674/?from=prt_xml_facet</url>
+        <price>1628</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016164574.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный 2K Sport Advance, цвет: белый, оранжевый. 127048. Размер 5</name>
+        <vendor>2K Sport</vendor>
+        <vendorCode>127048</vendorCode>
+        <description>Любительский футбольный мяч. Изготовлен из полиуретана. Бесшовная камера из натурального латекса. Ручная сшивка, клеевая герметизация швов.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4650055068645</barcode>
+        <weight>0.430</weight>
+        <dimensions>22.000/22.000/15.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Материал">Полиуретан, Латекс</param>
+        <param name="Вес" unit="г">430</param>
+        <param name="Ширина упаковки" unit="мм">220</param>
+        <param name="Высота упаковки" unit="мм">150</param>
+        <param name="Глубина упаковки" unit="мм">220</param>
+      </offer>
+      <offer id="138394675" available="true" group_id="138394740">
+        <url>http://www.ozon.ru/context/detail/id/138394675/?from=prt_xml_facet</url>
+        <price>1628</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016164599.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный 2K Sport Advance, цвет: белый, фиолетовый. 127048. Размер 3</name>
+        <vendor>2K Sport</vendor>
+        <vendorCode>127048</vendorCode>
+        <description>Любительский футбольный мяч. Изготовлен из полиуретана. Бесшовная камера из натурального латекса. Ручная сшивка, клеевая герметизация швов.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4650055068652</barcode>
+        <weight>0.345</weight>
+        <dimensions>21.000/21.000/12.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">3</param>
+        <param name="Материал">Полиуретан, Латекс</param>
+        <param name="Вес" unit="г">345</param>
+        <param name="Ширина упаковки" unit="мм">210</param>
+        <param name="Высота упаковки" unit="мм">120</param>
+        <param name="Глубина упаковки" unit="мм">210</param>
+      </offer>
+      <offer id="138394676" available="true" group_id="138394741">
+        <url>http://www.ozon.ru/context/detail/id/138394676/?from=prt_xml_facet</url>
+        <price>1628</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016164600.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный 2K Sport Advance, цвет: белый, фиолетовый. 127048. Размер 4</name>
+        <vendor>2K Sport</vendor>
+        <vendorCode>127048</vendorCode>
+        <description>Любительский футбольный мяч. Изготовлен из полиуретана. Бесшовная камера из натурального латекса. Ручная сшивка, клеевая герметизация швов.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4650055068669</barcode>
+        <weight>0.380</weight>
+        <dimensions>22.000/22.000/13.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">4</param>
+        <param name="Материал">Полиуретан, Латекс</param>
+        <param name="Вес" unit="г">380</param>
+        <param name="Ширина упаковки" unit="мм">220</param>
+        <param name="Высота упаковки" unit="мм">130</param>
+        <param name="Глубина упаковки" unit="мм">220</param>
+      </offer>
+      <offer id="138394677" available="true" group_id="138394742">
+        <url>http://www.ozon.ru/context/detail/id/138394677/?from=prt_xml_facet</url>
+        <price>1628</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016164601.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный 2K Sport Advance, цвет: белый, фиолетовый. 127048. Размер 5</name>
+        <vendor>2K Sport</vendor>
+        <vendorCode>127048</vendorCode>
+        <description>Любительский футбольный мяч. Изготовлен из полиуретана. Бесшовная камера из натурального латекса. Ручная сшивка, клеевая герметизация швов.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4650055068676</barcode>
+        <weight>0.430</weight>
+        <dimensions>23.000/23.000/13.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Материал">Полиуретан, Латекс</param>
+        <param name="Вес" unit="г">430</param>
+        <param name="Ширина упаковки" unit="мм">230</param>
+        <param name="Высота упаковки" unit="мм">130</param>
+        <param name="Глубина упаковки" unit="мм">230</param>
+      </offer>
+      <offer id="138394678" available="true" group_id="138394743">
+        <url>http://www.ozon.ru/context/detail/id/138394678/?from=prt_xml_facet</url>
+        <price>3702</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016164611.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>0</local_delivery_cost>
+        <name>Мяч футбольный 2K Sport Elite, цвет: оранжевый, черный. 127053. Размер 5</name>
+        <vendor>2K Sport</vendor>
+        <vendorCode>127053</vendorCode>
+        <description>Профессиональный футбольный мяч. Одобрен FIFA для проведения соревнований высшей категории. Сертификат FIFA Approved. 32 панели, ручная сшивка, клеевая герметизация швов. Переливающийся ламинированный полиуретан, три подкладочных слоя из эксклюзивной ткани – смеси хлопка с полиэстером. Идеально сбалансированная бесшовная камера из натурального латекса.</description>
+        <sales_notes>Вернем 74 руб. по программе OzonStatus</sales_notes>
+        <barcode>4650055068683</barcode>
+        <weight>0.445</weight>
+        <dimensions>23.000/23.000/13.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Материал">Полиуретан, Латекс</param>
+        <param name="Вес" unit="г">445</param>
+        <param name="Ширина упаковки" unit="мм">230</param>
+        <param name="Высота упаковки" unit="мм">130</param>
+        <param name="Глубина упаковки" unit="мм">230</param>
+      </offer>
+      <offer id="138394679" available="true" group_id="138394744">
+        <url>http://www.ozon.ru/context/detail/id/138394679/?from=prt_xml_facet</url>
+        <price>3702</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016164606.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>0</local_delivery_cost>
+        <name>Мяч футбольный 2K Sport Elite, цвет: белый, черный. 127053. Размер 5</name>
+        <vendor>2K Sport</vendor>
+        <vendorCode>127053</vendorCode>
+        <description>Профессиональный футбольный мяч. Одобрен FIFA для проведения соревнований высшей категории. Сертификат FIFA Approved. 32 панели, ручная сшивка, клеевая герметизация швов. Переливающийся ламинированный полиуретан, три подкладочных слоя из эксклюзивной ткани – смеси хлопка с полиэстером. Идеально сбалансированная бесшовная камера из натурального латекса.</description>
+        <sales_notes>Вернем 74 руб. по программе OzonStatus</sales_notes>
+        <barcode>4650055068690</barcode>
+        <weight>0.435</weight>
+        <dimensions>22.000/22.000/14.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Материал">Полиуретан, Латекс</param>
+        <param name="Вес" unit="г">435</param>
+        <param name="Ширина упаковки" unit="мм">220</param>
+        <param name="Высота упаковки" unit="мм">140</param>
+        <param name="Глубина упаковки" unit="мм">220</param>
+      </offer>
+      <offer id="138394680" available="true" group_id="138394745">
+        <url>http://www.ozon.ru/context/detail/id/138394680/?from=prt_xml_facet</url>
+        <price>2392</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016164616.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный 2K Sport Merkury, цвет: оранжевый, черный. 127062. Размер 5</name>
+        <vendor>2K Sport</vendor>
+        <vendorCode>127062</vendorCode>
+        <description>Футбольный мяч среднего уровня. Изготовлен из полиуретана/полиэстер/хлопок. Ручная сшивка, клеевая герметизация швов.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4650055068720</barcode>
+        <weight>0.440</weight>
+        <dimensions>23.000/23.000/14.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Материал">Полиуретан, Полиэстер, Хлопок</param>
+        <param name="Вес" unit="г">440</param>
+        <param name="Ширина упаковки" unit="мм">230</param>
+        <param name="Высота упаковки" unit="мм">140</param>
+        <param name="Глубина упаковки" unit="мм">230</param>
+      </offer>
+      <offer id="138394681" available="true" group_id="138394746">
+        <url>http://www.ozon.ru/context/detail/id/138394681/?from=prt_xml_facet</url>
+        <price>2392</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016164614.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный 2K Sport Merkury, цвет: белый, черный. 127062. Размер 5</name>
+        <vendor>2K Sport</vendor>
+        <vendorCode>127062</vendorCode>
+        <description>Футбольный мяч среднего уровня. Изготовлен из полиуретана/полиэстер/хлопок. Ручная сшивка, клеевая герметизация швов.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4650055068744</barcode>
+        <weight>0.440</weight>
+        <dimensions>23.000/23.000/14.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Материал">Полиуретан, Полиэстер, Хлопок</param>
+        <param name="Вес" unit="г">440</param>
+        <param name="Ширина упаковки" unit="мм">230</param>
+        <param name="Высота упаковки" unit="мм">140</param>
+        <param name="Глубина упаковки" unit="мм">230</param>
+      </offer>
+      <offer id="138394682" available="true" group_id="138394747">
+        <url>http://www.ozon.ru/context/detail/id/138394682/?from=prt_xml_facet</url>
+        <price>492</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016164570.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч сувенирный 2K Sport Patriot, цвет: белый, синий, красный. 127066p. Размер 1</name>
+        <vendor>2K Sport</vendor>
+        <vendorCode>127066p</vendorCode>
+        <description>Сувенирный мяч с символикой Российской Федерации. Подкладка из трех слоев полиэстера. Машинная сшивка.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4650055068775</barcode>
+        <weight>0.180</weight>
+        <dimensions>15.000/15.000/11.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">1</param>
+        <param name="Материал">ПВХ (поливинилхлорид), Латекс</param>
+        <param name="Вес" unit="г">180</param>
+        <param name="Ширина упаковки" unit="мм">150</param>
+        <param name="Высота упаковки" unit="мм">110</param>
+        <param name="Глубина упаковки" unit="мм">150</param>
+      </offer>
+      <offer id="138394683" available="true" group_id="138394748">
+        <url>http://www.ozon.ru/context/detail/id/138394683/?from=prt_xml_facet</url>
+        <price>492</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016164566.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч сувенирный 2K Sport Patriot, цвет: белый, голубой, красный. 127066p. Размер 1</name>
+        <vendor>2K Sport</vendor>
+        <vendorCode>127066p</vendorCode>
+        <description>Сувенирный мяч с символикой Российской Федерации. Подкладка из трех слоев полиэстера. Машинная сшивка.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4650055161605</barcode>
+        <weight>0.175</weight>
+        <dimensions>15.000/15.000/9.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">1</param>
+        <param name="Материал">ПВХ (поливинилхлорид), Латекс</param>
+        <param name="Вес" unit="г">175</param>
+        <param name="Ширина упаковки" unit="мм">150</param>
+        <param name="Высота упаковки" unit="мм">90</param>
+        <param name="Глубина упаковки" unit="мм">150</param>
+      </offer>
+      <offer id="138394684" available="true" group_id="138394750">
+        <url>http://www.ozon.ru/context/detail/id/138394684/?from=prt_xml_facet</url>
+        <price>3702</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016164663.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>0</local_delivery_cost>
+        <name>Мяч футбольный 2K Sport Parity, цвет: белый, золотистый, серый. 127075F. Размер 5</name>
+        <vendor>2K Sport</vendor>
+        <vendorCode>127075F</vendorCode>
+        <description>Профессиональный мяч, одобрен FIFA для проведения соревнований высшего уровня. Сертификат: FIFA Approved. Материал верха: полиуретан+ЭВА. 4-х слойная текстильная подложка. Бесшовная бутиловая камера с бутиловым ниппелем. Ручная сшивка панелей.</description>
+        <sales_notes>Вернем 74 руб. по программе OzonStatus</sales_notes>
+        <barcode>4650055068836</barcode>
+        <weight>0.435</weight>
+        <dimensions>23.000/23.000/13.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Материал">Полиуретан, Латекс</param>
+        <param name="Вес" unit="г">435</param>
+        <param name="Ширина упаковки" unit="мм">230</param>
+        <param name="Высота упаковки" unit="мм">130</param>
+        <param name="Глубина упаковки" unit="мм">230</param>
+      </offer>
+      <offer id="138394685" available="true" group_id="138394751">
+        <url>http://www.ozon.ru/context/detail/id/138394685/?from=prt_xml_facet</url>
+        <price>3266</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016161189.jpg</picture>
+        <picture>http://static.ozone.ru/multimedia/soft_other/1016161190.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч мини-футбольный 2K Sport Parity, цвет: белый, золотистый, серый. 127077F. Размер 4</name>
+        <vendor>2K Sport</vendor>
+        <vendorCode>127077F</vendorCode>
+        <description>Профессиональный футзальный (мини-футбольный) мяч. Сертификат: FIFA Approved. Материал верха: полиуретан+ЭВА. 4-х слойная текстильная подложна. Бесшовная бутиловая камера с бутиловым ниппелем Ручная сшивка панелей.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4650055068850</barcode>
+        <weight>0.425</weight>
+        <dimensions>22.000/22.000/13.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">4</param>
+        <param name="Материал">Полиуретан, Латекс</param>
+        <param name="Вес" unit="г">425</param>
+        <param name="Ширина упаковки" unit="мм">220</param>
+        <param name="Высота упаковки" unit="мм">130</param>
+        <param name="Глубина упаковки" unit="мм">220</param>
+      </offer>
+      <offer id="138394686" available="true" group_id="138394752">
+        <url>http://www.ozon.ru/context/detail/id/138394686/?from=prt_xml_facet</url>
+        <price>1955</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016151844.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч мини-футбольный 2K Sport Parity, цвет: белый, желтый, серый. 127079. Размер 4</name>
+        <vendor>2K Sport</vendor>
+        <vendorCode>127079</vendorCode>
+        <description>Мини-футбольный мяч 2K Sport серии Parity для игры в зале. Изготовлен из Полиуретана. Подкладка: Полиэстер 4 слоя. Бесшовная бутиловая камера с бутиловым ниппелем. Ручная сшивка.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4650055068881</barcode>
+        <weight>0.415</weight>
+        <dimensions>20.000/20.000/12.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">4</param>
+        <param name="Материал">Полиуретан, Латекс</param>
+        <param name="Вес" unit="г">415</param>
+        <param name="Ширина упаковки" unit="мм">200</param>
+        <param name="Высота упаковки" unit="мм">120</param>
+        <param name="Глубина упаковки" unit="мм">200</param>
+      </offer>
+      <offer id="138394687" available="true" group_id="138394753">
+        <url>http://www.ozon.ru/context/detail/id/138394687/?from=prt_xml_facet</url>
+        <price>2392</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016164726.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный 2K Sport Parity, цвет: белый, серый, зеленый. 127082F. Размер 5</name>
+        <vendor>2K Sport</vendor>
+        <vendorCode>127082F</vendorCode>
+        <description>Профессиональный футбольный мяч. Сертификат: FIFA Inspected. Материал верха: полиуретан+ЭВА. 4-х слойная текстильная подложна. Бесшовная бутиловая камера с бутиловым ниппелем. Ручная сшивка панелей.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4650055068898</barcode>
+        <weight>0.440</weight>
+        <dimensions>23.000/23.000/13.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Материал">Полиуретан, Латекс</param>
+        <param name="Вес" unit="г">440</param>
+        <param name="Ширина упаковки" unit="мм">230</param>
+        <param name="Высота упаковки" unit="мм">130</param>
+        <param name="Глубина упаковки" unit="мм">230</param>
+      </offer>
+      <offer id="138394688" available="true" group_id="138394754">
+        <url>http://www.ozon.ru/context/detail/id/138394688/?from=prt_xml_facet</url>
+        <price>2392</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016164660.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный 2K Sport Parity, цвет: белый, золотистый, красный. 127083F. Размер 5</name>
+        <vendor>2K Sport</vendor>
+        <vendorCode>127083F</vendorCode>
+        <description>Профессиональный футбольный мяч. Сертификат: FIFA Inspected. Материал верха: полиуретан+ЭВА. 4-х слойная текстильная подложна. Бесшовная бутиловая камера с бутиловым ниппелем. Ручная сшивка панелей.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4650055068904</barcode>
+        <weight>0.435</weight>
+        <dimensions>25.000/25.000/15.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Материал">Полиуретан, Латекс</param>
+        <param name="Вес" unit="г">435</param>
+        <param name="Ширина упаковки" unit="мм">250</param>
+        <param name="Высота упаковки" unit="мм">150</param>
+        <param name="Глубина упаковки" unit="мм">250</param>
+      </offer>
+      <offer id="138394689" available="true" group_id="138394755">
+        <url>http://www.ozon.ru/context/detail/id/138394689/?from=prt_xml_facet</url>
+        <price>2392</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016164761.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный 2K Sport Parity, цвет: белый, серый, синий. 127084F. Размер 5</name>
+        <vendor>2K Sport</vendor>
+        <vendorCode>127084F</vendorCode>
+        <description>Профессиональный футбольный мяч. Сертификат: FIFA Inspected. Материал верха: полиуретан+ЭВА. 4-х слойная текстильная подложна. Бесшовная бутиловая камера с бутиловым ниппелем. Ручная сшивка панелей.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4650055229237</barcode>
+        <weight>0.445</weight>
+        <dimensions>24.000/24.000/13.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Материал">Полиуретан, Латекс</param>
+        <param name="Вес" unit="г">445</param>
+        <param name="Ширина упаковки" unit="мм">240</param>
+        <param name="Высота упаковки" unit="мм">130</param>
+        <param name="Глубина упаковки" unit="мм">240</param>
+      </offer>
+      <offer id="138394721" available="true" group_id="138394774">
+        <url>http://www.ozon.ru/context/detail/id/138394721/?from=prt_xml_facet</url>
+        <price>3988</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016161167.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>0</local_delivery_cost>
+        <name>Комплект конусов 2K Sport, цвет: желтый, оранжевый. 127805</name>
+        <vendor>2K Sport</vendor>
+        <vendorCode>127805</vendorCode>
+        <description>Комплект тренировочных конусов для разметки. В комплект входят сорок конусов двух цветов и подставка.</description>
+        <sales_notes>Вернем 80 руб. по программе OzonStatus</sales_notes>
+        <barcode>4650055040221</barcode>
+        <weight>1.210</weight>
+        <dimensions>25.000/20.000/20.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Количество в упаковке, шт">40</param>
+        <param name="Вес" unit="г">1210</param>
+        <param name="Ширина упаковки" unit="мм">200</param>
+        <param name="Высота упаковки" unit="мм">200</param>
+        <param name="Глубина упаковки" unit="мм">250</param>
+      </offer>
+      <offer id="138394722" available="true" group_id="138394775">
+        <url>http://www.ozon.ru/context/detail/id/138394722/?from=prt_xml_facet</url>
+        <price>313</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016161176.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Конус разметочный 2K Sport, цвет: оранжевый, высота 23 см. 127823</name>
+        <vendor>2K Sport</vendor>
+        <vendorCode>127823</vendorCode>
+        <description>Тренировочный конус высотой 23 см, для разметки газона.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4650055040238</barcode>
+        <weight>0.075</weight>
+        <dimensions>25.000/17.000/17.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вес" unit="г">75</param>
+        <param name="Ширина упаковки" unit="мм">170</param>
+        <param name="Высота упаковки" unit="мм">170</param>
+        <param name="Глубина упаковки" unit="мм">250</param>
+      </offer>
+      <offer id="138394723" available="true" group_id="138394776">
+        <url>http://www.ozon.ru/context/detail/id/138394723/?from=prt_xml_facet</url>
+        <price>413</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016161177.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Конус разметочный 2K Sport, цвет: оранжевый, высота 30 см. 127830</name>
+        <vendor>2K Sport</vendor>
+        <vendorCode>127830</vendorCode>
+        <description>Тренировочный конус высотой 30 см, для разметки газона.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>4650055040245</barcode>
+        <weight>0.160</weight>
+        <dimensions>32.000/22.000/22.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вес" unit="г">160</param>
+        <param name="Ширина упаковки" unit="мм">220</param>
+        <param name="Высота упаковки" unit="мм">220</param>
+        <param name="Глубина упаковки" unit="мм">320</param>
+      </offer>
+      <offer id="138407216" available="true" group_id="138407234">
+        <url>http://www.ozon.ru/context/detail/id/138407216/?from=prt_xml_facet</url>
+        <price>1217</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016163124.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Umbro "Neo Classic", цвет: оранжевый, черный. Размер 5</name>
+        <vendor>UMBRO</vendor>
+        <vendorCode>20594U</vendorCode>
+        <description>Тренировочный мяч Umbro "Neo Classic" подойдет для игроков разного уровня подготовки. Сочетает в себе яркие игровые качества и великолепные игровые ощущения. Покрышка выполнена из глянцевой синтетической кожи. Камера изготовлена из бутила. УВАЖЕМЫЕ КЛИЕНТЫ! Обращаем ваше внимание на тот факт, что мяч поставляется в сдутом виде. Насос в комплект не входит.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>5054005307409</barcode>
+        <weight>0.380</weight>
+        <dimensions>19.500/20.000/15.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Назначение">Для спорта</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вид мяча">Надувной</param>
+        <param name="Размер">5</param>
+        <param name="Возраст">Взрослые</param>
+        <param name="Материал">Синтетическая кожа, Бутил</param>
+        <param name="Диаметр, см">20</param>
+        <param name="Вес" unit="г">380</param>
+        <param name="Ширина упаковки" unit="мм">200</param>
+        <param name="Высота упаковки" unit="мм">150</param>
+        <param name="Глубина упаковки" unit="мм">195</param>
+      </offer>
+      <offer id="138407217" available="true" group_id="138407235">
+        <url>http://www.ozon.ru/context/detail/id/138407217/?from=prt_xml_facet</url>
+        <price>1579</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1015978153.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч минифутбольный Umbro "Neo Futsal Liga", цвет: белый, черный, розовый. Размер 4. 20554U</name>
+        <vendor>UMBRO</vendor>
+        <vendorCode>20554U</vendorCode>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>5054005213311</barcode>
+        <weight>0.395</weight>
+        <dimensions>20.000/20.000/15.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">4</param>
+        <param name="Возраст">Взрослые</param>
+        <param name="Вес" unit="г">395</param>
+        <param name="Ширина упаковки" unit="мм">200</param>
+        <param name="Высота упаковки" unit="мм">150</param>
+        <param name="Глубина упаковки" unit="мм">200</param>
+      </offer>
+      <offer id="138407218" available="true" group_id="138407237">
+        <url>http://www.ozon.ru/context/detail/id/138407218/?from=prt_xml_facet</url>
+        <price>1583</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016146613.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч минифутбольный Umbro "Neo Futsal Liga", цвет: голубой, желтый, черный. Размер 4</name>
+        <vendor>UMBRO</vendor>
+        <vendorCode>20554U</vendorCode>
+        <description>Минифутбольный мяч Umbro "Neo Futsal Liga" выполнен для игроков разного уровня подготовки. Сочетает в себе яркие игровые качества и великолепные игровые ощущения. Покрышка выполнена из глянцевой синтетической кожи. Плотная бутиловая камера обеспечивает 30% отскока. Мяч изготовлен при помощи машинной сшивки из 32 панелей.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>5054005213328</barcode>
+        <weight>0.415</weight>
+        <dimensions>20.000/20.000/15.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Назначение">Для спорта</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вид мяча">Надувной</param>
+        <param name="Размер">4</param>
+        <param name="Возраст">Взрослые</param>
+        <param name="Материал">Синтетическая кожа, Бутил</param>
+        <param name="Диаметр, см">18</param>
+        <param name="Вес" unit="г">415</param>
+        <param name="Ширина упаковки" unit="мм">200</param>
+        <param name="Высота упаковки" unit="мм">150</param>
+        <param name="Глубина упаковки" unit="мм">200</param>
+      </offer>
+      <offer id="138407219" available="true" group_id="138407238">
+        <url>http://www.ozon.ru/context/detail/id/138407219/?from=prt_xml_facet</url>
+        <price>1217</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1015978150.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Umbro "Neo Trainer", цвет: белый, черный, розовый. Размер 5. 20550U</name>
+        <vendor>UMBRO</vendor>
+        <vendorCode>20550U</vendorCode>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>5054005213205</barcode>
+        <weight>0.415</weight>
+        <dimensions>20.000/20.000/15.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Возраст">Взрослые</param>
+        <param name="Вес" unit="г">415</param>
+        <param name="Ширина упаковки" unit="мм">200</param>
+        <param name="Высота упаковки" unit="мм">150</param>
+        <param name="Глубина упаковки" unit="мм">200</param>
+      </offer>
+      <offer id="138407225" available="true" group_id="138407244">
+        <url>http://www.ozon.ru/context/detail/id/138407225/?from=prt_xml_facet</url>
+        <price>616</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016163130.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Umbro "Urban", цвет: желтый, черный. Размер 5</name>
+        <vendor>UMBRO</vendor>
+        <vendorCode>20628U</vendorCode>
+        <description>Umbro "Urban" - это классическая модель любительского мяча. Он состоит из 30 панелей, выполненных из высококачественной прочной резины. Клееный. Хорошо держит форму и обладает высоким ускорением. УВАЖЕМЫЕ КЛИЕНТЫ! Обращаем ваше внимание на тот факт, что мяч поставляется в сдутом виде. Насос в комплект не входит.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>5054005667695</barcode>
+        <weight>0.480</weight>
+        <dimensions>28.500/7.000/8.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Назначение">Для спорта</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вид мяча">Надувной</param>
+        <param name="Размер">5</param>
+        <param name="Возраст">Взрослые</param>
+        <param name="Материал">Резина</param>
+        <param name="Диаметр, см">20</param>
+        <param name="Вес" unit="г">480</param>
+        <param name="Ширина упаковки" unit="мм">70</param>
+        <param name="Высота упаковки" unit="мм">80</param>
+        <param name="Глубина упаковки" unit="мм">285</param>
+      </offer>
+      <offer id="138407231" available="true" group_id="138407250">
+        <url>http://www.ozon.ru/context/detail/id/138407231/?from=prt_xml_facet</url>
+        <price>880</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1015978159.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Umbro "Veloce Supporter Ball", цвет: белый, синий, красный. Размер 5. 20657U</name>
+        <vendor>UMBRO</vendor>
+        <vendorCode>20657U</vendorCode>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>5054005626944</barcode>
+        <weight>0.840</weight>
+        <dimensions>20.000/20.000/15.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Возраст">Взрослые</param>
+        <param name="Вес" unit="г">840</param>
+        <param name="Ширина упаковки" unit="мм">200</param>
+        <param name="Высота упаковки" unit="мм">150</param>
+        <param name="Глубина упаковки" unit="мм">200</param>
+      </offer>
+      <offer id="138520678" available="true" group_id="138520693">
+        <url>http://www.ozon.ru/context/detail/id/138520678/?from=prt_xml_facet</url>
+        <price>1190</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016146618.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Nike "Technique", цвет: серебристый, черный, белый. Размер 5</name>
+        <vendor>Nike</vendor>
+        <vendorCode>SC2362-098</vendorCode>
+        <description>Футбольный мяч Nike "Technique" применяется для тренировок или любительских игр. Традиционная конструкция из 32 панелей обеспечивает правильную и точную траекторию полета. Машинная строчка на панелях из синтетического материала гарантирует прочность и превосходное касание. Усиленная резиновая камера позволяет сохранить форму мяча. УВАЖЕМЫЕ КЛИЕНТЫ! Обращаем ваше внимание на тот факт, что мяч поставляется в сдутом виде. Насос в комплект не входит.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>0886066517252</barcode>
+        <weight>0.420</weight>
+        <dimensions>21.000/21.000/11.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Назначение">Для спорта</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вид мяча">Надувной</param>
+        <param name="Размер">5</param>
+        <param name="Материал">Резина, Полиуретан, Полиэстер, ЭВА (вспененный полимер)</param>
+        <param name="Диаметр, см">20</param>
+        <param name="Вес" unit="г">420</param>
+        <param name="Ширина упаковки" unit="мм">210</param>
+        <param name="Высота упаковки" unit="мм">110</param>
+        <param name="Глубина упаковки" unit="мм">210</param>
+      </offer>
+      <offer id="138520679" available="true" group_id="138520695">
+        <url>http://www.ozon.ru/context/detail/id/138520679/?from=prt_xml_facet</url>
+        <price>1190</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016163141.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Nike "React", цвет: белый, черный, розовый. Размер 5</name>
+        <vendor>Nike</vendor>
+        <vendorCode>SC2736-101</vendorCode>
+        <description>Футбольный мяч Nike "React" применяется для тренировок или любительских игр. Благодаря высококачественной конструкции он прекрасно сохраняет форму. Машинная строчка на панелях из синтетического материала гарантирует прочность и превосходное касание. Усиленная резиновая камера позволяет сохранить форму мяча. УВАЖЕМЫЕ КЛИЕНТЫ! Обращаем ваше внимание на тот факт, что мяч поставляется в сдутом виде. Насос в комплект не входит.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>0886066358589</barcode>
+        <weight>0.430</weight>
+        <dimensions>22.000/20.000/12.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Назначение">Для спорта</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вид мяча">Надувной</param>
+        <param name="Размер">5</param>
+        <param name="Материал">Полиуретан, Резина, ЭВА (вспененный полимер), Полиэстер</param>
+        <param name="Диаметр, см">20</param>
+        <param name="Вес" unit="г">430</param>
+        <param name="Ширина упаковки" unit="мм">200</param>
+        <param name="Высота упаковки" unit="мм">120</param>
+        <param name="Глубина упаковки" unit="мм">220</param>
+      </offer>
+      <offer id="138520680" available="true" group_id="138520697">
+        <url>http://www.ozon.ru/context/detail/id/138520680/?from=prt_xml_facet</url>
+        <price>1190</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016162880.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Nike "React Football", цвет: розовый, желтый, черный. Размер 5</name>
+        <vendor>Nike</vendor>
+        <vendorCode>SC2736-800</vendorCode>
+        <description>Футбольный мяч Nike "React Football" легко разглядеть во время игры из-за его . Благодаря высококачественной конструкции он прекрасно сохраняет форму. Машинная строчка на панелях из синтетического материала гарантирует прочность и превосходное касание. Усиленная резиновая камера позволяет сохранить форму мяча. УВАЖЕМЫЕ КЛИЕНТЫ! Обращаем ваше внимание на тот факт, что мяч поставляется в сдутом виде. Насос в комплект не входит.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>0886915393570</barcode>
+        <weight>0.440</weight>
+        <dimensions>22.000/22.000/13.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Назначение">Для спорта</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вид мяча">Надувной</param>
+        <param name="Размер">5</param>
+        <param name="Материал">Резина, Полиуретан, Полиэстер, ЭВА (вспененный полимер)</param>
+        <param name="Диаметр, см">20</param>
+        <param name="Вес" unit="г">440</param>
+        <param name="Ширина упаковки" unit="мм">220</param>
+        <param name="Высота упаковки" unit="мм">130</param>
+        <param name="Глубина упаковки" unit="мм">220</param>
+      </offer>
+      <offer id="138520681" available="true" group_id="138520698">
+        <url>http://www.ozon.ru/context/detail/id/138520681/?from=prt_xml_facet</url>
+        <price>1190</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016163206.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Nike "React", цвет: бронзовый, черный, белый. Размер 5</name>
+        <vendor>Nike</vendor>
+        <vendorCode>SC2736-901</vendorCode>
+        <description>Футбольный мяч Nike "React" применяется для тренировок или любительских игр. Благодаря высококачественной конструкции он прекрасно сохраняет форму. Машинная строчка на 26 панелях из синтетического материала гарантирует прочность и превосходное касание. Усиленная резиновая камера позволяет сохранить форму мяча. УВАЖЕМЫЕ КЛИЕНТЫ! Обращаем ваше внимание на тот факт, что мяч поставляется в сдутом виде. Насос в комплект не входит.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>0886066518259</barcode>
+        <weight>0.430</weight>
+        <dimensions>21.000/21.000/12.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Назначение">Для спорта</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вид мяча">Надувной</param>
+        <param name="Размер">5</param>
+        <param name="Материал">Резина, Полиуретан, Полиэстер, ЭВА (вспененный полимер)</param>
+        <param name="Диаметр, см">20</param>
+        <param name="Вес" unit="г">430</param>
+        <param name="Ширина упаковки" unit="мм">210</param>
+        <param name="Высота упаковки" unit="мм">120</param>
+        <param name="Глубина упаковки" unit="мм">210</param>
+      </offer>
+      <offer id="138520682" available="true" group_id="138520699">
+        <url>http://www.ozon.ru/context/detail/id/138520682/?from=prt_xml_facet</url>
+        <price>1190</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016146621.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Nike "Stadium", цвет: черный, неоновый красный, серый. Размер 5</name>
+        <vendor>Nike</vendor>
+        <vendorCode>SC2942-089</vendorCode>
+        <description>Футбольный мяч Nike "Stadium" применяется для тренировок или любительских игр. Традиционная конструкция из 32 панелей обеспечивает правильную и точную траекторию полета. Машинная строчка на панелях из синтетического материала гарантирует прочность и превосходное касание. Усиленная резиновая камера позволяет сохранить форму мяча. УВАЖЕМЫЕ КЛИЕНТЫ! Обращаем ваше внимание на тот факт, что мяч поставляется в сдутом виде. Насос в комплект не входит.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>0886066865377</barcode>
+        <weight>0.425</weight>
+        <dimensions>22.000/20.000/12.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Назначение">Для спорта</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вид мяча">Надувной</param>
+        <param name="Размер">5</param>
+        <param name="Материал">Резина, Полиуретан, Полиэстер, ЭВА (вспененный полимер)</param>
+        <param name="Диаметр, см">20</param>
+        <param name="Вес" unit="г">425</param>
+        <param name="Ширина упаковки" unit="мм">200</param>
+        <param name="Высота упаковки" unit="мм">120</param>
+        <param name="Глубина упаковки" unit="мм">220</param>
+      </offer>
+      <offer id="138520683" available="true" group_id="138520700">
+        <url>http://www.ozon.ru/context/detail/id/138520683/?from=prt_xml_facet</url>
+        <price>1190</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016162903.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Nike "Stadium", цвет: розовый, желтый, черный. Размер 5</name>
+        <vendor>Nike</vendor>
+        <vendorCode>SC2942-639</vendorCode>
+        <description>Футбольный мяч Nike "Stadium" применяется для тренировок или любительских игр. Традиционная конструкция из 32 панелей обеспечивает правильную и точную траекторию полета. Машинная строчка на панелях из синтетического материала гарантирует прочность и превосходное касание. Усиленная резиновая камера позволяет сохранить форму мяча. УВАЖЕМЫЕ КЛИЕНТЫ! Обращаем ваше внимание на тот факт, что мяч поставляется в сдутом виде. Насос в комплект не входит.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>0886066865544</barcode>
+        <weight>0.425</weight>
+        <dimensions>21.000/21.000/11.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Назначение">Для спорта</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вид мяча">Надувной</param>
+        <param name="Размер">5</param>
+        <param name="Материал">Резина, Полиуретан, Полиэстер, ЭВА (вспененный полимер)</param>
+        <param name="Диаметр, см">20</param>
+        <param name="Вес" unit="г">425</param>
+        <param name="Ширина упаковки" unit="мм">210</param>
+        <param name="Высота упаковки" unit="мм">110</param>
+        <param name="Глубина упаковки" unit="мм">210</param>
+      </offer>
+      <offer id="138520684" available="true" group_id="138520701">
+        <url>http://www.ozon.ru/context/detail/id/138520684/?from=prt_xml_facet</url>
+        <price>1190</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016146619.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Nike "Stadium", цвет: салатовый, черный, серый. Размер 5</name>
+        <vendor>Nike</vendor>
+        <vendorCode>SC2942-702</vendorCode>
+        <description>Футбольный мяч Nike "Stadium" применяется для тренировок или любительских игр. Традиционная конструкция из 32 панелей обеспечивает правильную и точную траекторию полета. Машинная строчка на панелях из синтетического материала гарантирует прочность и превосходное касание. Усиленная резиновая камера позволяет сохранить форму мяча. УВАЖЕМЫЕ КЛИЕНТЫ! Обращаем ваше внимание на тот факт, что мяч поставляется в сдутом виде. Насос в комплект не входит.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>0886066865575</barcode>
+        <weight>0.420</weight>
+        <dimensions>22.000/20.000/12.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Назначение">Для спорта</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вид мяча">Надувной</param>
+        <param name="Размер">5</param>
+        <param name="Материал">Резина, Полиуретан, Полиэстер, ЭВА (вспененный полимер)</param>
+        <param name="Диаметр, см">20</param>
+        <param name="Вес" unit="г">420</param>
+        <param name="Ширина упаковки" unit="мм">200</param>
+        <param name="Высота упаковки" unit="мм">120</param>
+        <param name="Глубина упаковки" unit="мм">220</param>
+      </offer>
+      <offer id="138520685" available="true" group_id="138520703">
+        <url>http://www.ozon.ru/context/detail/id/138520685/?from=prt_xml_facet</url>
+        <price>1790</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016163117.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Nike "Strike Football", цвет: синий, оранжевый, фиолетовый. Размер 5</name>
+        <vendor>Nike</vendor>
+        <vendorCode>SC2983-560</vendorCode>
+        <description>Футбольный мяч Nike "Strike Football" выполнен из комбинации резины, полиуретана, полиэстера и пористого слоя EVA. Предназначен для игры на искусственном или натуральном газоне. Обладает яркой расцветкой и характеризуется повышенной аэродинамикой. Сверху декорирован фирменным логотипом "Nike". УВАЖЕМЫЕ КЛИЕНТЫ! Обращаем ваше внимание на тот факт, что мяч поставляется в сдутом виде. Насос в комплект не входит.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>0886915393761</barcode>
+        <weight>0.435</weight>
+        <dimensions>21.000/21.000/12.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Назначение">Для спорта</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вид мяча">Надувной</param>
+        <param name="Размер">5</param>
+        <param name="Возраст">Взрослые</param>
+        <param name="Материал">Резина, Полиуретан, Полиэстер, ЭВА (вспененный полимер)</param>
+        <param name="Диаметр, см">20</param>
+        <param name="Вес" unit="г">435</param>
+        <param name="Ширина упаковки" unit="мм">210</param>
+        <param name="Высота упаковки" unit="мм">120</param>
+        <param name="Глубина упаковки" unit="мм">210</param>
+      </offer>
+      <offer id="138520687" available="true" group_id="138520707">
+        <url>http://www.ozon.ru/context/detail/id/138520687/?from=prt_xml_facet</url>
+        <price>1829</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016099149.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Nike "Prestige. Spartak Moscow", цвет: красный, белый. Размер 5</name>
+        <vendor>Nike</vendor>
+        <vendorCode>SC3004-100</vendorCode>
+        <description>Мяч футбольный Nike Prestige-Spartak из 26 панелей для точной траектории полета. Бутиловая камера, усиленная полиэстером, не сдувается и хорошо держит форму, машинная строчка покрытия из материала ТПУ (термопластичный полиуретан) для исключительного сцепления и прочности, крепкие швы повышают водонепроницаемость покрышки, что обеспечивает постоянство игры и веса мяча, текстурированное покрытие улучшает траекторию полета мяча и усиливает сцепление.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>0886061879249</barcode>
+        <weight>0.425</weight>
+        <dimensions>22.000/22.000/12.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Материал">Резина, Полиуретан, Полиэстер, ЭВА (вспененный полимер)</param>
+        <param name="Вес" unit="г">425</param>
+        <param name="Ширина упаковки" unit="мм">220</param>
+        <param name="Высота упаковки" unit="мм">120</param>
+        <param name="Глубина упаковки" unit="мм">220</param>
+      </offer>
+      <offer id="138520688" available="true" group_id="138520709">
+        <url>http://www.ozon.ru/context/detail/id/138520688/?from=prt_xml_facet</url>
+        <price>1829</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016099151.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Nike "Prestige. Inter Milan", цвет: синий. Размер 5</name>
+        <vendor>Nike</vendor>
+        <vendorCode>SC3008-463</vendorCode>
+        <description>Мяч футбольный Nike Prestige-Inter из 26 панелей для точной траектории полета. Бутиловая камера, усиленная полиэстером, не сдувается и хорошо держит форму, машинная строчка покрытия из материала ТПУ (термопластичный полиуретан) для исключительного сцепления и прочности, крепкие швы повышают водонепроницаемость покрышки, что обеспечивает постоянство игры и веса мяча, текстурированное покрытие улучшает траекторию полета мяча и усиливает сцепление.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>0885178477829</barcode>
+        <weight>0.425</weight>
+        <dimensions>21.000/21.000/12.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Размер">5</param>
+        <param name="Материал">Резина, Полиуретан, Полиэстер, ЭВА (вспененный полимер)</param>
+        <param name="Вес" unit="г">425</param>
+        <param name="Ширина упаковки" unit="мм">210</param>
+        <param name="Высота упаковки" unit="мм">120</param>
+        <param name="Глубина упаковки" unit="мм">210</param>
+      </offer>
+      <offer id="138520689" available="true" group_id="138520711">
+        <url>http://www.ozon.ru/context/detail/id/138520689/?from=prt_xml_facet</url>
+        <price>1590</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1016162876.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>Мяч футбольный Nike "Footballx Duro Energy", цвет: серебристый, черный, мятный. Размер 5</name>
+        <vendor>Nike</vendor>
+        <vendorCode>SC3035-015</vendorCode>
+        <description>Футбольный мяч Nike "Footballx Duro Energy" выполнен из высококачественных материалов. Состоит из 32 панелей, которые надежно прошиты и проклеены. Имеет классический высокий отскок. Отлично подходит для игры на синтетических покрытиях. УВАЖЕМЫЕ КЛИЕНТЫ! Обращаем ваше внимание на тот факт, что мяч поставляется в сдутом виде. Насос в комплект не входит.</description>
+        <sales_notes>Бесплатная доставка при заказе от 3500 рублей</sales_notes>
+        <barcode>0886915398674</barcode>
+        <weight>0.425</weight>
+        <dimensions>21.000/20.000/12.000</dimensions>
+        <param name="Тип">Мяч футбольный</param>
+        <param name="Назначение">Для спорта</param>
+        <param name="Вид спорта">Футбол</param>
+        <param name="Вид мяча">Надувной</param>
+        <param name="Размер">5</param>
+        <param name="Материал">Резина, Полиэстер, Полиуретан, Хлопок</param>
+        <param name="Диаметр, см">20</param>
+        <param name="Вес" unit="г">425</param>
+        <param name="Ширина упаковки" unit="мм">200</param>
+        <param name="Высота упаковки" unit="мм">120</param>
+        <param name="Глубина упаковки" unit="мм">210</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>

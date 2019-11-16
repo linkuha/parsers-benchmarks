@@ -1,0 +1,22 @@
+var page  = require('webpage').create();
+
+phantom.onError = function(msg, trace) {
+
+    phantom.exit(1);
+};
+
+
+page.open ('{{ input.getUrl() }}', function (status) {
+
+    if (status !== 'success') {
+        console.log(
+            "Error open" + page.reason
+        );
+        console.log("Connection failed.");
+        phantom.exit(1);
+    } else {
+        console.log('hui');
+        phantom.exit();
+    }
+
+});

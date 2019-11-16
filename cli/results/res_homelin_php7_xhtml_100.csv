@@ -1,0 +1,24 @@
+doctype;parser;file;max mem dif;parser s;real s;user s;sys s;maximum RSS
+xhtml;didom_css;test_iana_longlist.xhtml;3803976;6.0106840133667;6.03;6.01;0.02;36808
+xhtml;didom_xpath;test_iana_longlist.xhtml;3803624;5.8905649185181;5.92;5.90;0.01;36636
+xhtml;dom;test_iana_longlist.xhtml;2409824;103.5152990818;103.54;103.52;0.08;34120
+xhtml;dom_xpath;test_iana_longlist.xhtml;3124592;5.4552888870239;5.48;5.36;0.12;36440
+xhtml;expat_struct;test_iana_longlist.xhtml;19751760;10.146980047226;10.17;9.20;0.55;41124
+xhtml;fdom_css;test_iana_longlist.xhtml;4266856;8.3313450813293;9.14;3.84;5.31;792164
+xhtml;fdom_xpath;test_iana_longlist.xhtml;3891552;5.6718897819519;6.49;5.74;0.74;791936
+xhtml;fluentdom_css;test_iana_longlist.xhtml;3763352;5.5808470249176;6.38;5.93;0.45;792664
+xhtml;fluentdom_xpath;test_iana_longlist.xhtml;3507904;5.8786449432373;5.91;5.87;0.03;36172
+xhtml;ganon_css;test_iana_longlist.xhtml;0;0;300.02;298.46;1.81;59556
+xhtml;html5lib;test_iana_longlist.xhtml;4402736;159.03557682037;159.06;159.16;0.02;35120
+xhtml;nokogiri_css;test_iana_longlist.xhtml;6983752;7.5226421356201;7.55;7.50;0.05;40916
+xhtml;phantomjs;test_iana_longlist.xhtml;0;0;0.02;0.01;0.00;20080
+xhtml;phpquery_css;test_iana_longlist.xhtml;3900112;235.0184071064;235.84;234.06;1.80;794632
+xhtml;querypath_css;test_iana_longlist.xhtml;4098464;102.89521002769;102.92;102.89;0.04;36348
+xhtml;regexp;test_iana_longlist.xhtml;4351544;0.94128203392029;0.96;0.94;0.01;25908
+xhtml;shd_css;test_iana_longlist.xhtml;52646248;95.130603075027;95.31;95.24;0.14;76016
+xhtml;simplexml_xpath;test_iana_longlist.xhtml;604416;1.3302249908447;1.35;1.24;0.10;27640
+xhtml;string;test_iana_longlist.xhtml;3271728;3.3084239959717;3.33;3.32;0.00;23788
+xhtml;symfony_css;test_iana_longlist.xhtml;3936152;9.1026179790497;9.13;9.12;0.01;36728
+xhtml;symfony_xpath;test_iana_longlist.xhtml;3653752;6.4630601406097;6.49;6.48;0.01;36788
+xhtml;zend_css;test_iana_longlist.xhtml;3891656;22.78160905838;22.81;22.70;0.12;36268
+xhtml;zend_xpath;test_iana_longlist.xhtml;3867512;22.858177900314;22.89;22.76;0.13;36440

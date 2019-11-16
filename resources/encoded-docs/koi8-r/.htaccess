@@ -1,0 +1,2 @@
+AddDefaultCharset koi8-r
+php_value default_charset "koi8-r"

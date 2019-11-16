@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+
+<head>
+    <meta charset="utf-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Testing a parse of links</title>
+
+    <meta name="description" content="">
+    <meta name="author" content="linkuha@gmail.com">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+    <!-- Meta for bots (variants: all = index, follow; none = noindex, nofollow; -->
+    <meta name="yandex" content="all"/>
+    <meta name="robots" content="all"/>
+    <meta name="robots" content="noindex"/>
+
+    <link rel="canonical" href="page-parsing-links.html"/>
+
+    <!-- Place favicon.ico and apple-touch-icon(s) here  -->
+
+    <link rel="shortcut icon" href="/template/assets/img/favicon.ico">
+
+    <!-- load Ink's css from the cdn -->
+    <link rel="stylesheet" type="text/css" href="/template/assets/css/ink-flex.min.css">
+    <link rel="stylesheet" type="text/css" href="/template/assets/css/font-awesome.min.css">
+
+    <!-- load Ink's css for IE8 -->
+    <!--[if lt IE 9 ]>
+    <link rel="stylesheet" href="/template/assets/css/ink-ie.min.css" type="text/css" media="screen" title="no title" charset="utf-8">
+    <![endif]-->
+
+    <!-- test browser flexbox support and load legacy grid if unsupported -->
+    <script type="text/javascript" src="/template/assets/js/modernizr.js"></script>
+    <script type="text/javascript">
+        Modernizr.load({
+            test: Modernizr.flexbox,
+            nope : '/template/assets/css/ink-legacy.min.css'
+        });
+    </script>
+
+    <!-- load Ink's javascript files from the cdn -->
+    <script type="text/javascript" src="/template/assets/js/holder.js"></script>
+    <script type="text/javascript" src="/template/assets/js/ink-all.min.js"></script>
+    <script type="text/javascript" src="/template/assets/js/autoload.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="/template/assets/css/site-inline-styles.css">
+
+</head>
+
+<body>
+
+<!--[if lte IE 9 ]>
+<div class="ink-alert basic" role="alert">
+    <button class="ink-dismiss">&times;</button>
+    <p>
+        <strong>You are using an outdated Internet Explorer version.</strong>
+        Please <a href="http://browsehappy.com/">upgrade to a modern browser</a> to improve your web experience.
+    </p>
+</div>
+-->
+
+<div class="ink-grid vertical-space">
+    <h1>Testing a parse of links</h1>
+
+    <p>ARBITRARY TEXT: And though of all men the moody captain of the Pequod was the least given to that sort of shallowest assumption;
+        and though the only homage he ever exacted, was implicit, instantaneous obedience;
+        though he required no man to remove the shoes from his feet ere stepping upon the quarter-deck;
+        and though there were times when, owing to peculiar circumstances connected with events hereafter to be detailed,
+        he addressed them in unusual terms, whether of condescension or IN TERROREM, or otherwise;
+        yet even Captain Ahab was by no means unobservant of the paramount forms and usages of the sea.</p>
+    <div class="column-group vertical-gutters vertical">
+        <div class="all-100">
+            <div class="column">
+                <a href="http://example.com/1">№1. Normal link</a>
+            </div>
+        </div>
+        <div class="all-100">
+            <div class="column">
+                <a href="http://example.com/2"  >№2. Normal link (right bracket white-space)</a  >
+            </div>
+        </div>
+        <div class="all-100">
+            <div class="column">
+                <a   href  =   "http://example.com/3">№3. Normal link (attribute white-spaces)</a>
+            </div>
+        </div>
+        <div class="all-100">
+            №4. Broken link here...
+            <div class="column">
+                < a href="http://example.com/4">№4. Broken link (tag name near white-spaces)< /a>
+            </div>
+        </div>
+        <div class="all-100">
+            №5. Commented link here...
+            <!--div class="column">
+                <a href="http://example.com/5">№5. Link in comments</a>
+            </div-->
+        </div>
+        <div class="all-100">
+            <div class="column">
+                <a href="http://example.com/go.php?redirect=http://example.com/6">№6. Normal link (with URL in query)</a>
+            </div>
+        </div>
+        <div class="all-100">
+            <div class="column">
+                <a name="link-7">№7. Anchor without "href" attribute ("name")</a>
+            </div>
+        </div>
+        <div class="all-100">
+            <div class="column">
+                <a href="http://example.com/8">№8. UTF-8: link ссылка сілтеме الرابط</a>
+            </div>
+        </div>
+        <div class="all-100">
+            <noindex>
+                <div class="column">
+                    <a href="http://example.com/9">№9. Link in NOINDEX tag for Yandex (NOT valid HTML)</a>
+                </div>
+            </noindex>
+        </div>
+        <div class="all-100">
+            <!--noindex-->
+                <div class="column">
+                    <div class="test">
+                        <a href="http://example.com/10">№10. Link in NOINDEX tag for Yandex (valid HTML)</a>
+                    </div>
+                </div>
+            <!--/noindex-->
+        </div>
+        <div class="all-100">
+            <div class="column">
+                <a href="http://example.com/11"><span>№11. Normal link with 1 inserted tag</span></a>
+            </div>
+        </div>
+        <div class="all-100">
+            <div class="column">
+                <a href="http://example.com/12">
+                    <div class="test1">
+                        <div class="test2">
+                            <span>№12. Normal link with several inserted tag</span>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <div class="all-100">
+            <div class="column">
+                <a>№13. Link without attributes</a>
+            </div>
+        </div>
+        <div class="all-100">
+            <div class="column">
+                <a href="http://example.com/14" rel="nofollow">№14. Normal link with rel="nofollow"</a>
+            </div>
+        </div>
+        <div class="all-100">
+            №15. Normal link with "display:none;" here...
+            <div class="column" style="display:none;">
+                <a href="http://example.com/15">№15. Normal link in block with "display:none;" css</a>
+            </div>
+        </div>
+        <div class="all-100">
+            №16. Normal link in block with "display:none;" css, show with JavaScript here...
+            <div class="column" id="block-16" style="display:none;">
+                <a href="http://example.com/16">№16. Normal link in block with "display:none;" css, show with JavaScript</a>
+            </div>
+        </div>
+        <div class="all-100">
+            №17. Normal link with "color:transparent;" css here...
+            <div class="column">
+                <a href="http://example.com/17" style="color:transparent;">№17. Normal link with "color:transparent;" css</a>
+            </div>
+        </div>
+        <div class="all-100">
+            №18. Normal link the same text color as the background color here...
+            <div class="column" style="background-color:#f0f0f0;">
+                <a href="http://example.com/18" style="color:#f0f0f0;">№18. Normal link the same text color as the background color</a>
+            </div>
+        </div>
+        <div class="all-100">
+            №19. Normal link in the XMP tag here...
+            <div class="column">
+                <xmp>
+                    <a href="http://example.com/19">№19. Normal link in the XMP tag</a>
+                </xmp>
+            </div>
+        </div>
+        <div class="all-100">
+            №20. Html special chars formatted link here...
+            <div class="column">
+                    &lt;a href="http://example.com/20"&gt;№20. Html special chars formatted link&lt;/a&gt;
+            </div>
+        </div>
+        <div class="all-100">
+            №21. Html special chars formatted link in the PRE tag here...
+            <div class="column">
+                <pre>
+                    &lt;a href="http://example.com/21"&gt;№21. Html special chars formatted link in the PRE tag&lt;/a&gt;
+                </pre>
+            </div>
+        </div>
+        <div class="all-100">
+            №22. Html special chars formatted link in the PRE > CODE tags here...
+            <div class="column">
+                <pre>
+                    <code>
+                       &lt;a href="http://example.com/22"&gt;№22. Html special chars formatted link in the PRE ~ CODE tags&lt;/a&gt;
+                    </code>
+                </pre>
+            </div>
+        </div>
+        <div class="all-100">
+            №23. Normal link in the TEXTAREA (disabled) tag here...
+            <div class="column">
+                <textarea disabled>
+                    <a href="http://example.com/23">№23. Normal link in the TEXTAREA (disabled) tag</a>
+                </textarea>
+            </div>
+        </div>
+        <div class="all-100">
+            №24. Normal link in the CODE tag here...
+            <div class="column">
+                <code class="language-markup">
+                    <a href="http://example.com/24">№24. Normal link in the CODE tag</a>
+                </code>
+            </div>
+        </div>
+        <div class="all-100">
+            №25. Normal link on the image here...
+            <div class="column">
+                <a href="http://example.com/25"><img src="../img/test.png" alt="№25. Normal link on the image"/></a>
+            </div>
+        </div>
+        <p>FORM with url in ACTION attribute, which don't follows on submit, and link in ONCLICK attribute of button, which follows here...</p>
+        <form action="http://example.com/26" onsubmit="return false;">
+            <input type="text" value="test" placeholder="test"/>
+            <button class="ink-button" onclick="document.location.href='http://example.com/27';">Submit</button>
+        </form>
+    </div>
+</div> <!-- /END INK-GRID -->
+
+<footer class="clearfix">
+    <div class="ink-grid">
+        <br>
+        <div class="screen-size-helper">
+            <p class="title">Screen size:</p>
+            <ul class="unstyled">
+                <li class="hide-all show-tiny tiny">TINY</li>
+                <li class="hide-all show-small small">SMALL</li>
+                <li class="hide-all show-medium medium">MEDIUM</li>
+                <li class="hide-all show-large large">LARGE</li>
+                <li class="hide-all show-xlarge xlarge">XLARGE</li>
+            </ul>
+        </div>
+    </div>
+    <script type="text/javascript">
+        document.addEventListener('DOMContentLoaded', function() {
+            var block16 = document.getElementById('block-16');
+            block16.style.display = "block";
+        });
+    </script>
+</footer>
+
+</body>
+</html>

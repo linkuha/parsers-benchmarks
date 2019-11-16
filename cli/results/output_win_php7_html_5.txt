@@ -1,0 +1,552 @@
+===============
+html
+===============
+******************************
+parser:ahd_css	file:test_google.html
+0
+0.085927963256836
+real:0.6344178	user:0.5625	sys:0.078125	max RSS:16457728
+******************************
+parser:ahd_css	file:test_habrahabr_largearticle.html
+2011832
+1.3539040088654
+real:2.0343558	user:1.84375	sys:0.171875	max RSS:134557696
+******************************
+parser:ahd_css	file:test_wikipedia.html
+2724696
+0.8779468536377
+real:1.4939951	user:1.375	sys:0.09375	max RSS:78405632
+******************************
+parser:ahd_css	file:test_wordpress.html
+0
+0.023397207260132
+real:0.5733818	user:0.375	sys:0.1875	max RSS:17559552
+===============
+html
+===============
+******************************
+parser:ahd_xpath	file:test_google.html
+0
+0.085422039031982
+real:0.6404278	user:0.578125	sys:0.046875	max RSS:14102528
+******************************
+parser:ahd_xpath	file:test_habrahabr_largearticle.html
+2011832
+1.5094101428986
+real:2.2705124	user:1.9375	sys:0.28125	max RSS:134578176
+******************************
+parser:ahd_xpath	file:test_wikipedia.html
+2724696
+0.87772393226624
+real:1.4979999	user:1.40625	sys:0.09375	max RSS:78385152
+******************************
+parser:ahd_xpath	file:test_wordpress.html
+0
+0.023214817047119
+real:0.5913951	user:0.5	sys:0.078125	max RSS:14127104
+===============
+html
+===============
+******************************
+parser:didom_css	file:test_google.html
+615792
+0.076535940170288
+real:0.6394267	user:0.515625	sys:0.109375	max RSS:16105472
+******************************
+parser:didom_css	file:test_habrahabr_largearticle.html
+4657280
+0.93794512748718
+real:1.5180112	user:1.328125	sys:0.15625	max RSS:47181824
+******************************
+parser:didom_css	file:test_wikipedia.html
+3611000
+0.52526378631592
+real:1.1167467	user:0.921875	sys:0.21875	max RSS:35422208
+******************************
+parser:didom_css	file:test_wordpress.html
+408688
+0.020864963531494
+real:0.5693808	user:0.421875	sys:0.140625	max RSS:16543744
+===============
+html
+===============
+******************************
+parser:didom_xpath	file:test_google.html
+615408
+0.077929019927979
+real:0.6424279	user:0.5	sys:0.125	max RSS:14606336
+******************************
+parser:didom_xpath	file:test_habrahabr_largearticle.html
+4656896
+0.93577408790588
+real:1.5140093	user:1.359375	sys:0.15625	max RSS:49471488
+******************************
+parser:didom_xpath	file:test_wikipedia.html
+3610616
+0.54367113113403
+real:1.1527711	user:0.984375	sys:0.171875	max RSS:34680832
+******************************
+parser:didom_xpath	file:test_wordpress.html
+408304
+0.021095037460327
+real:0.577382	user:0.40625	sys:0.15625	max RSS:14577664
+===============
+html
+===============
+******************************
+parser:dom	file:test_google.html
+63240
+0.084805965423584
+real:0.6424279	user:0.546875	sys:0.09375	max RSS:16510976
+******************************
+parser:dom	file:test_habrahabr_largearticle.html
+1751496
+11.009922981262
+real:11.5837221	user:11.25	sys:0.34375	max RSS:47210496
+******************************
+parser:dom	file:test_wikipedia.html
+2223168
+6.0293619632721
+real:6.5843891	user:6.28125	sys:0.234375	max RSS:32686080
+******************************
+parser:dom	file:test_wordpress.html
+56648
+0.025131940841675
+real:0.5753814	user:0.40625	sys:0.171875	max RSS:14262272
+===============
+html
+===============
+******************************
+parser:dom_xpath	file:test_google.html
+80000
+0.079399824142456
+real:0.6324229	user:0.5	sys:0.125	max RSS:16695296
+******************************
+parser:dom_xpath	file:test_habrahabr_largearticle.html
+2200872
+0.90029191970825
+real:1.4679799	user:1.1875	sys:0.25	max RSS:45502464
+******************************
+parser:dom_xpath	file:test_wikipedia.html
+2913744
+0.45072913169861
+real:1.0727147	user:0.921875	sys:0.140625	max RSS:32710656
+******************************
+parser:dom_xpath	file:test_wordpress.html
+71440
+0.02031397819519
+real:0.564375	user:0.46875	sys:0.09375	max RSS:17592320
+===============
+html
+===============
+******************************
+parser:expat_struct	file:test_google.html
+540752
+1.575697183609
+real:2.1234182	user:0.4375	sys:0.125	max RSS:18128896
+******************************
+parser:expat_struct	file:test_habrahabr_largearticle.html
+4322056
+3.2989869117737
+real:3.8625759	user:0.421875	sys:0.15625	max RSS:19591168
+******************************
+parser:expat_struct	file:test_wikipedia.html
+26436888
+2.0563089847565
+real:2.6187454	user:1	sys:0.078125	max RSS:46252032
+******************************
+parser:expat_struct	file:test_wordpress.html
+745400
+0.73955988883972
+real:1.2848566	user:0.421875	sys:0.140625	max RSS:17895424
+===============
+html
+===============
+******************************
+parser:fdom_css	file:test_google.html
+398184
+0.079009056091309
+real:0.6344212	user:0.515625	sys:0.109375	max RSS:17485824
+******************************
+parser:fdom_css	file:test_habrahabr_largearticle.html
+3273480
+0.81706380844116
+real:1.4809873	user:1.25	sys:0.203125	max RSS:129454080
+******************************
+parser:fdom_css	file:test_wikipedia.html
+3199136
+0.42982411384583
+real:1.0306884	user:0.875	sys:0.15625	max RSS:78921728
+******************************
+parser:fdom_css	file:test_wordpress.html
+382920
+0.021032810211182
+real:0.5923924	user:0.4375	sys:0.15625	max RSS:14258176
+===============
+html
+===============
+******************************
+parser:fdom_xpath	file:test_google.html
+332648
+0.077790975570679
+real:0.7474974	user:0.578125	sys:0.171875	max RSS:17326080
+******************************
+parser:fdom_xpath	file:test_habrahabr_largearticle.html
+3207944
+0.82299494743347
+real:1.4799866	user:1.234375	sys:0.203125	max RSS:127524864
+******************************
+parser:fdom_xpath	file:test_wikipedia.html
+3133600
+0.41994595527649
+real:1.0266862	user:0.84375	sys:0.1875	max RSS:77664256
+******************************
+parser:fdom_xpath	file:test_wordpress.html
+317384
+0.018450021743774
+real:0.5643776	user:0.5	sys:0.0625	max RSS:18194432
+===============
+html
+===============
+******************************
+parser:fluentdom_css	file:test_google.html
+631224
+0.091039180755615
+real:0.6434306	user:0.546875	sys:0.09375	max RSS:16556032
+******************************
+parser:fluentdom_css	file:test_habrahabr_largearticle.html
+2804720
+0.84666895866394
+real:1.5200138	user:1.328125	sys:0.171875	max RSS:137887744
+******************************
+parser:fluentdom_css	file:test_wikipedia.html
+3530152
+0.45596694946289
+real:1.0607072	user:0.890625	sys:0.15625	max RSS:78315520
+******************************
+parser:fluentdom_css	file:test_wordpress.html
+622528
+0.030618906021118
+real:0.5833876	user:0.421875	sys:0.15625	max RSS:16273408
+===============
+html
+===============
+******************************
+parser:fluentdom_xpath	file:test_google.html
+358928
+0.082550048828125
+real:0.6394263	user:0.546875	sys:0.09375	max RSS:17141760
+******************************
+parser:fluentdom_xpath	file:test_habrahabr_largearticle.html
+2532424
+0.93807482719421
+real:1.5200142	user:1.390625	sys:0.09375	max RSS:47640576
+******************************
+parser:fluentdom_xpath	file:test_wikipedia.html
+3257856
+0.48963689804077
+real:1.0627097	user:0.84375	sys:0.21875	max RSS:33431552
+******************************
+parser:fluentdom_xpath	file:test_wordpress.html
+350232
+0.029084920883179
+real:0.6244167	user:0.484375	sys:0.140625	max RSS:16465920
+===============
+html
+===============
+******************************
+parser:ganon_css	file:test_google.html
+0
+0
+real:300.1080738	user:299.671875	sys:0.3125	max RSS:31100928
+******************************
+parser:ganon_css	file:test_habrahabr_largearticle.html
+0
+0
+real:300.1100734	user:298.875	sys:1.140625	max RSS:26234880
+******************************
+parser:ganon_css	file:test_wikipedia.html
+0
+0
+real:300.1741169	user:299.71875	sys:0.421875	max RSS:27742208
+******************************
+parser:ganon_css	file:test_wordpress.html
+14164672
+27.689975976944
+real:28.2438322	user:28.109375	sys:0.140625	max RSS:32976896
+===============
+html
+===============
+******************************
+parser:html5lib	file:test_google.html
+1435768
+0.61888408660889
+real:1.1697824	user:0.96875	sys:0.203125	max RSS:20340736
+******************************
+parser:html5lib	file:test_habrahabr_largearticle.html
+9153000
+34.048043966293
+real:34.6140747	user:34.34375	sys:0.234375	max RSS:48959488
+******************************
+parser:html5lib	file:test_wikipedia.html
+4608424
+11.195759057999
+real:11.7498319	user:11.5625	sys:0.171875	max RSS:35270656
+******************************
+parser:html5lib	file:test_wordpress.html
+1071704
+0.42709517478943
+real:0.9716478	user:0.828125	sys:0.140625	max RSS:19247104
+===============
+html
+===============
+******************************
+parser:nokogiri_css	file:test_google.html
+312928
+0.079667091369629
+real:0.6254195	user:0.53125	sys:0.078125	max RSS:16384000
+******************************
+parser:nokogiri_css	file:test_habrahabr_largearticle.html
+6249000
+0.98506689071655
+real:1.5530366	user:1.421875	sys:0.125	max RSS:51941376
+******************************
+parser:nokogiri_css	file:test_wikipedia.html
+7121080
+0.57789492607117
+real:1.1327552	user:1.03125	sys:0.078125	max RSS:38354944
+******************************
+parser:nokogiri_css	file:test_wordpress.html
+221024
+0.01971697807312
+real:0.5643771	user:0.453125	sys:0.09375	max RSS:16207872
+===============
+html
+===============
+******************************
+parser:phantomjs	file:test_google.html
+55952
+8.892147064209
+real:9.4182797	user:0.40625	sys:0.125	max RSS:16461824
+******************************
+parser:phantomjs	file:test_habrahabr_largearticle.html
+2432664
+36.312452077866
+real:36.8435607	user:0.421875	sys:0.125	max RSS:19120128
+******************************
+parser:phantomjs	file:test_wikipedia.html
+3121856
+16.319769859314
+real:16.8472319	user:0.421875	sys:0.109375	max RSS:19767296
+******************************
+parser:phantomjs	file:test_wordpress.html
+48544
+19.057217121124
+real:19.5820538	user:0.421875	sys:0.09375	max RSS:16449536
+===============
+html
+===============
+******************************
+parser:phpquery_css	file:test_google.html
+1244024
+0.20882415771484
+real:0.7655087	user:0.65625	sys:0.0625	max RSS:24297472
+******************************
+parser:phpquery_css	file:test_habrahabr_largearticle.html
+13427184
+10.773279905319
+real:11.4236145	user:11.203125	sys:0.203125	max RSS:135753728
+******************************
+parser:phpquery_css	file:test_wikipedia.html
+3729688
+13.219926834106
+real:13.8202118	user:13.609375	sys:0.203125	max RSS:80736256
+******************************
+parser:phpquery_css	file:test_wordpress.html
+1244016
+0.068660974502563
+real:0.6084069	user:0.453125	sys:0.15625	max RSS:17457152
+===============
+html
+===============
+******************************
+parser:querypath_css	file:test_google.html
+841376
+0.095207929611206
+real:0.6484318	user:0.453125	sys:0.15625	max RSS:17162240
+******************************
+parser:querypath_css	file:test_habrahabr_largearticle.html
+3211256
+10.684215068817
+real:11.2505003	user:11.140625	sys:0.09375	max RSS:46968832
+******************************
+parser:querypath_css	file:test_wikipedia.html
+3997096
+6.0932080745697
+real:6.6494338	user:6.40625	sys:0.234375	max RSS:35631104
+******************************
+parser:querypath_css	file:test_wordpress.html
+832144
+0.031845092773438
+real:0.5713817	user:0.421875	sys:0.140625	max RSS:18018304
+===============
+html
+===============
+******************************
+parser:regexp	file:test_google.html
+143560
+0.0044670104980469
+real:0.5393591	user:0.390625	sys:0.15625	max RSS:14319616
+******************************
+parser:regexp	file:test_habrahabr_largearticle.html
+2991296
+0.040130853652954
+real:0.6003985	user:0.4375	sys:0.140625	max RSS:16531456
+******************************
+parser:regexp	file:test_wikipedia.html
+4807224
+0.046650171279907
+real:0.6244158	user:0.5	sys:0.109375	max RSS:14016512
+******************************
+parser:regexp	file:test_wordpress.html
+108624
+0.0024340152740479
+real:0.5353565	user:0.390625	sys:0.125	max RSS:14909440
+===============
+html
+===============
+******************************
+parser:shd_css	file:test_google.html
+13919224
+0.19775891304016
+real:0.7384911	user:0.578125	sys:0.171875	max RSS:26275840
+******************************
+parser:shd_css	file:test_habrahabr_largearticle.html
+630120
+0.0035800933837891
+real:0.5623736	user:0.4375	sys:0.125	max RSS:17121280
+******************************
+parser:shd_css	file:test_wikipedia.html
+79565440
+6.5427951812744
+real:7.2808543	user:7.15625	sys:0.109375	max RSS:95223808
+******************************
+parser:shd_css	file:test_wordpress.html
+10559168
+0.10208797454834
+real:0.6394254	user:0.59375	sys:0.046875	max RSS:18780160
+===============
+html
+===============
+******************************
+parser:string	file:test_google.html
+679824
+0.11377811431885
+real:0.6524337	user:0.546875	sys:0.09375	max RSS:18165760
+******************************
+parser:string	file:test_habrahabr_largearticle.html
+2817624
+0.62717795372009
+real:1.1847886	user:1.078125	sys:0.0625	max RSS:22679552
+******************************
+parser:string	file:test_wikipedia.html
+3118912
+0.49315404891968
+real:1.0386912	user:0.890625	sys:0.125	max RSS:21131264
+******************************
+parser:string	file:test_wordpress.html
+71944
+0.015166044235229
+real:0.5533694	user:0.4375	sys:0.125	max RSS:17031168
+===============
+html
+===============
+******************************
+parser:symfony_css	file:test_google.html
+1279152
+0.13241004943848
+real:0.6774521	user:0.53125	sys:0.140625	max RSS:20971520
+******************************
+parser:symfony_css	file:test_habrahabr_largearticle.html
+11060832
+1.7920229434967
+real:2.3625742	user:2.109375	sys:0.234375	max RSS:53497856
+******************************
+parser:symfony_css	file:test_wikipedia.html
+3790184
+0.76087999343872
+real:1.3128753	user:1.15625	sys:0.140625	max RSS:35438592
+******************************
+parser:symfony_css	file:test_wordpress.html
+669248
+0.038553953170776
+real:0.576386	user:0.4375	sys:0.140625	max RSS:17055744
+===============
+html
+===============
+******************************
+parser:symfony_xpath	file:test_google.html
+871616
+0.11866116523743
+real:0.662442	user:0.640625	sys:0.015625	max RSS:20500480
+******************************
+parser:symfony_xpath	file:test_habrahabr_largearticle.html
+10653296
+1.6446220874786
+real:2.2204804	user:2	sys:0.1875	max RSS:53338112
+******************************
+parser:symfony_xpath	file:test_wikipedia.html
+3381248
+0.59572100639343
+real:1.1477634	user:1.0625	sys:0.078125	max RSS:35368960
+******************************
+parser:symfony_xpath	file:test_wordpress.html
+266512
+0.024710178375244
+real:0.5643745	user:0.453125	sys:0.109375	max RSS:17145856
+===============
+html
+===============
+******************************
+parser:zend_css	file:test_google.html
+170416
+0.078365087509155
+real:0.6214143	user:0.5	sys:0.09375	max RSS:17391616
+******************************
+parser:zend_css	file:test_habrahabr_largearticle.html
+3108816
+1.3867588043213
+real:1.9653089	user:1.609375	sys:0.34375	max RSS:46686208
+******************************
+parser:zend_css	file:test_wikipedia.html
+3247032
+0.85642099380493
+real:1.4119417	user:1.203125	sys:0.1875	max RSS:34537472
+******************************
+parser:zend_css	file:test_wordpress.html
+155792
+0.020139932632446
+real:0.593393	user:0.5	sys:0.078125	max RSS:18411520
+===============
+html
+===============
+******************************
+parser:zend_xpath	file:test_google.html
+142488
+0.078752994537354
+real:0.6284189	user:0.5	sys:0.140625	max RSS:13901824
+******************************
+parser:zend_xpath	file:test_habrahabr_largearticle.html
+3080888
+1.4019911289215
+real:1.96631	user:1.640625	sys:0.28125	max RSS:46559232
+******************************
+parser:zend_xpath	file:test_wikipedia.html
+3219104
+0.88023996353149
+real:1.4319533	user:1.25	sys:0.1875	max RSS:33460224
+******************************
+parser:zend_xpath	file:test_wordpress.html
+127864
+0.018881797790527
+real:0.568379	user:0.484375	sys:0.09375	max RSS:14270464

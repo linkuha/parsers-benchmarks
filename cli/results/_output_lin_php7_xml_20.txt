@@ -1,0 +1,483 @@
+===============
+xml
+===============
+******************************
+parser:didom_css	file:../resources/test-docs/test_ozon_balls.xml
+394288
+0.16901016235352
+real:0.19	user:0.17	sys:0.01	max RSS:25356
+******************************
+parser:didom_css	file:../resources/test-docs/test_ozon_childbooks.xml
+9
+9
+real:311.67	user:11.91	sys:6.54	max RSS:898792
+******************************
+parser:didom_css	file:../resources/test-docs/test_ozon_complit.xml
+29936656
+25.503929853439
+real:26.13	user:25.50	sys:0.10	max RSS:271156
+******************************
+parser:didom_css	file:../resources/test-docs/test_ozon_web.xml
+2279136
+1.6221671104431
+real:1.65	user:1.62	sys:0.01	max RSS:38952
+===============
+xml
+===============
+******************************
+parser:didom_xpath	file:../resources/test-docs/test_ozon_balls.xml
+393936
+0.16211795806885
+real:0.18	user:0.17	sys:0.00	max RSS:24868
+******************************
+parser:didom_xpath	file:../resources/test-docs/test_ozon_childbooks.xml
+9
+9
+real:314.51	user:11.84	sys:5.64	max RSS:904556
+******************************
+parser:didom_xpath	file:../resources/test-docs/test_ozon_complit.xml
+29936304
+25.659413099289
+real:26.28	user:25.62	sys:0.14	max RSS:270972
+******************************
+parser:didom_xpath	file:../resources/test-docs/test_ozon_web.xml
+2278784
+1.6453850269318
+real:1.68	user:1.65	sys:0.00	max RSS:38440
+===============
+xml
+===============
+******************************
+parser:dom	file:../resources/test-docs/test_ozon_balls.xml
+47272
+0.083168983459473
+real:0.10	user:0.08	sys:0.01	max RSS:24560
+******************************
+parser:dom	file:../resources/test-docs/test_ozon_childbooks.xml
+9
+9
+real:313.50	user:284.12	sys:0.99	max RSS:904436
+******************************
+parser:dom	file:../resources/test-docs/test_ozon_complit.xml
+0
+0
+real:300.44	user:299.52	sys:0.26	max RSS:203596
+******************************
+parser:dom	file:../resources/test-docs/test_ozon_web.xml
+400120
+2.6504259109497
+real:2.67	user:2.64	sys:0.01	max RSS:34052
+===============
+xml
+===============
+******************************
+parser:dom_xpath	file:../resources/test-docs/test_ozon_balls.xml
+61832
+0.059698104858398
+real:0.07	user:0.06	sys:0.00	max RSS:24536
+******************************
+parser:dom_xpath	file:../resources/test-docs/test_ozon_childbooks.xml
+9
+9
+real:336.01	user:11.13	sys:6.48	max RSS:904720
+******************************
+parser:dom_xpath	file:../resources/test-docs/test_ozon_complit.xml
+7223712
+8.3142929077148
+real:8.76	user:7.36	sys:0.97	max RSS:203888
+******************************
+parser:dom_xpath	file:../resources/test-docs/test_ozon_web.xml
+499496
+0.46964597702026
+real:0.50	user:0.47	sys:0.00	max RSS:33748
+===============
+xml
+===============
+******************************
+parser:expat_stream	file:../resources/test-docs/test_ozon_balls.xml
+22232
+0.11773705482483
+real:0.13	user:0.12	sys:0.00	max RSS:21492
+******************************
+parser:expat_stream	file:../resources/test-docs/test_ozon_childbooks.xml
+38116416
+112.1402900219
+real:112.16	user:111.25	sys:0.75	max RSS:58220
+******************************
+parser:expat_stream	file:../resources/test-docs/test_ozon_complit.xml
+5016024
+14.474453926086
+real:14.49	user:14.38	sys:0.08	max RSS:25504
+******************************
+parser:expat_stream	file:../resources/test-docs/test_ozon_web.xml
+334248
+1.0331699848175
+real:1.05	user:1.03	sys:0.01	max RSS:21364
+===============
+xml
+===============
+******************************
+parser:expat_struct	file:../resources/test-docs/test_ozon_balls.xml
+1955768
+0.068634986877441
+real:0.08	user:0.07	sys:0.01	max RSS:25640
+******************************
+parser:expat_struct	file:../resources/test-docs/test_ozon_childbooks.xml
+9
+9
+real:310.60	user:6.20	sys:6.40	max RSS:903788
+******************************
+parser:expat_struct	file:../resources/test-docs/test_ozon_complit.xml
+245247248
+10.053352832794
+real:10.57	user:9.68	sys:0.39	max RSS:311408
+******************************
+parser:expat_struct	file:../resources/test-docs/test_ozon_web.xml
+17158376
+0.66084313392639
+real:0.69	user:0.66	sys:0.01	max RSS:43412
+===============
+xml
+===============
+******************************
+parser:fdom_css	file:../resources/test-docs/test_ozon_balls.xml
+359768
+0.10093188285828
+real:0.17	user:0.10	sys:0.02	max RSS:47908
+******************************
+parser:fdom_css	file:../resources/test-docs/test_ozon_childbooks.xml
+9
+9
+real:213.34	user:6.95	sys:4.35	max RSS:913592
+******************************
+parser:fdom_css	file:../resources/test-docs/test_ozon_complit.xml
+6475688
+12.050065994263
+real:12.60	user:12.00	sys:0.16	max RSS:415600
+******************************
+parser:fdom_css	file:../resources/test-docs/test_ozon_web.xml
+744376
+0.79281091690063
+real:0.96	user:0.85	sys:0.10	max RSS:244756
+===============
+xml
+===============
+******************************
+parser:fdom_xpath	file:../resources/test-docs/test_ozon_balls.xml
+257744
+0.086050987243652
+real:0.12	user:0.09	sys:0.01	max RSS:47588
+******************************
+parser:fdom_xpath	file:../resources/test-docs/test_ozon_childbooks.xml
+9
+9
+real:184.07	user:7.02	sys:3.88	max RSS:914176
+******************************
+parser:fdom_xpath	file:../resources/test-docs/test_ozon_complit.xml
+6442624
+12.02931022644
+real:12.57	user:11.95	sys:0.20	max RSS:415156
+******************************
+parser:fdom_xpath	file:../resources/test-docs/test_ozon_web.xml
+634160
+0.79697895050049
+real:0.97	user:0.87	sys:0.08	max RSS:244220
+===============
+xml
+===============
+******************************
+parser:fluentdom_css	file:../resources/test-docs/test_ozon_balls.xml
+554976
+0.093422889709473
+real:0.12	user:0.07	sys:0.02	max RSS:47992
+******************************
+parser:fluentdom_css	file:../resources/test-docs/test_ozon_childbooks.xml
+9
+9
+real:152.25	user:4.74	sys:3.61	max RSS:908776
+******************************
+parser:fluentdom_css	file:../resources/test-docs/test_ozon_complit.xml
+6898256
+8.0988919734955
+real:8.63	user:8.04	sys:0.17	max RSS:415464
+******************************
+parser:fluentdom_css	file:../resources/test-docs/test_ozon_web.xml
+941600
+0.54445600509644
+real:0.70	user:0.60	sys:0.08	max RSS:244844
+===============
+xml
+===============
+******************************
+parser:fluentdom_xpath	file:../resources/test-docs/test_ozon_balls.xml
+374128
+0.058881044387817
+real:0.08	user:0.06	sys:0.00	max RSS:24828
+******************************
+parser:fluentdom_xpath	file:../resources/test-docs/test_ozon_childbooks.xml
+9
+9
+real:312.38	user:4.59	sys:7.04	max RSS:904412
+******************************
+parser:fluentdom_xpath	file:../resources/test-docs/test_ozon_complit.xml
+6725856
+9.1769289970398
+real:9.52	user:8.05	sys:1.14	max RSS:238164
+******************************
+parser:fluentdom_xpath	file:../resources/test-docs/test_ozon_web.xml
+753240
+0.52437996864319
+real:0.55	user:0.52	sys:0.01	max RSS:36508
+===============
+xml
+===============
+******************************
+parser:phantomjs	file:../resources/test-docs/test_ozon_balls.xml
+10512
+3.5186839103699
+real:3.53	user:2.43	sys:0.19	max RSS:42240
+******************************
+parser:phantomjs	file:../resources/test-docs/test_ozon_childbooks.xml
+9
+9
+real:312.75	user:0.01	sys:0.00	max RSS:21204
+******************************
+parser:phantomjs	file:../resources/test-docs/test_ozon_complit.xml
+9
+9
+real:313.02	user:116.58	sys:0.26	max RSS:378304
+******************************
+parser:phantomjs	file:../resources/test-docs/test_ozon_web.xml
+339600
+58.943285942078
+real:59.18	user:19.04	sys:0.44	max RSS:64280
+===============
+xml
+===============
+******************************
+parser:phpquery_css	file:../resources/test-docs/test_ozon_balls.xml
+1174448
+0.32372808456421
+real:0.45	user:0.13	sys:0.00	max RSS:49936
+******************************
+parser:phpquery_css	file:../resources/test-docs/test_ozon_childbooks.xml
+9
+9
+real:313.91	user:5.56	sys:6.40	max RSS:755120
+******************************
+parser:phpquery_css	file:../resources/test-docs/test_ozon_complit.xml
+9
+9
+real:313.26	user:100.51	sys:1.83	max RSS:681432
+******************************
+parser:phpquery_css	file:../resources/test-docs/test_ozon_web.xml
+2416392
+3.2515690326691
+real:4.03	user:1.72	sys:0.13	max RSS:246552
+===============
+xml
+===============
+******************************
+parser:querypath_css	file:../resources/test-docs/test_ozon_balls.xml
+755616
+1.3173429965973
+real:1.37	user:0.68	sys:0.01	max RSS:26056
+******************************
+parser:querypath_css	file:../resources/test-docs/test_ozon_childbooks.xml
+9
+9
+real:174.30	user:3.77	sys:3.60	max RSS:705920
+******************************
+parser:querypath_css	file:../resources/test-docs/test_ozon_complit.xml
+9025040
+184.01501893997
+real:184.59	user:91.26	sys:1.40	max RSS:369264
+******************************
+parser:querypath_css	file:../resources/test-docs/test_ozon_web.xml
+1239216
+13.198968172073
+real:13.27	user:6.55	sys:0.08	max RSS:47816
+===============
+xml
+===============
+******************************
+parser:regexp	file:../resources/test-docs/test_ozon_balls.xml
+577752
+0.030996799468994
+real:0.07	user:0.02	sys:0.00	max RSS:23352
+******************************
+parser:regexp	file:../resources/test-docs/test_ozon_childbooks.xml
+9
+9
+real:315.37	user:13.05	sys:7.30	max RSS:672608
+******************************
+parser:regexp	file:../resources/test-docs/test_ozon_complit.xml
+105980536
+5.5093469619751
+real:5.99	user:2.60	sys:0.23	max RSS:134620
+******************************
+parser:regexp	file:../resources/test-docs/test_ozon_web.xml
+5859640
+0.36252689361572
+real:0.41	user:0.20	sys:0.00	max RSS:29464
+===============
+xml
+===============
+******************************
+parser:simplexml_xpath	file:../resources/test-docs/test_ozon_balls.xml
+68752
+0.12183690071106
+real:0.16	user:0.06	sys:0.02	max RSS:24636
+******************************
+parser:simplexml_xpath	file:../resources/test-docs/test_ozon_childbooks.xml
+9
+9
+real:311.87	user:4.73	sys:6.52	max RSS:663476
+******************************
+parser:simplexml_xpath	file:../resources/test-docs/test_ozon_complit.xml
+8193800
+17.189190864563
+real:17.71	user:7.60	sys:1.14	max RSS:205828
+******************************
+parser:simplexml_xpath	file:../resources/test-docs/test_ozon_web.xml
+567664
+1.0865778923035
+real:1.13	user:0.54	sys:0.01	max RSS:34008
+===============
+xml
+===============
+******************************
+parser:simplexmlreader	file:../resources/test-docs/test_ozon_balls.xml
+771136
+0.88687896728516
+real:0.92	user:0.45	sys:0.00	max RSS:21668
+******************************
+parser:simplexmlreader	file:../resources/test-docs/test_ozon_childbooks.xml
+9
+9
+real:313.03	user:158.50	sys:0.59	max RSS:243316
+******************************
+parser:simplexmlreader	file:../resources/test-docs/test_ozon_complit.xml
+94225856
+118.02593183517
+real:118.10	user:58.76	sys:0.25	max RSS:111952
+******************************
+parser:simplexmlreader	file:../resources/test-docs/test_ozon_web.xml
+6603136
+8.5543339252472
+real:8.59	user:4.26	sys:0.02	max RSS:27624
+===============
+xml
+===============
+******************************
+parser:string	file:../resources/test-docs/test_ozon_balls.xml
+394256
+0.064280033111572
+real:0.10	user:0.04	sys:0.00	max RSS:23076
+******************************
+parser:string	file:../resources/test-docs/test_ozon_childbooks.xml
+384337728
+97.104011058807
+real:97.88	user:35.70	sys:0.52	max RSS:586668
+******************************
+parser:string	file:../resources/test-docs/test_ozon_complit.xml
+55850768
+9.4774639606476
+real:9.90	user:4.73	sys:0.04	max RSS:107208
+******************************
+parser:string	file:../resources/test-docs/test_ozon_web.xml
+4020496
+0.65429997444153
+real:0.70	user:0.34	sys:0.00	max RSS:27452
+===============
+xml
+===============
+******************************
+parser:symfony_css	file:../resources/test-docs/test_ozon_balls.xml
+516984
+0.34574007987976
+real:0.43	user:0.18	sys:0.01	max RSS:24920
+******************************
+parser:symfony_css	file:../resources/test-docs/test_ozon_childbooks.xml
+9
+9
+real:65.38	user:2.94	sys:1.38	max RSS:624888
+******************************
+parser:symfony_css	file:../resources/test-docs/test_ozon_complit.xml
+8786888
+45.244136095047
+real:45.76	user:22.66	sys:0.39	max RSS:242796
+******************************
+parser:symfony_css	file:../resources/test-docs/test_ozon_web.xml
+1000264
+3.3585979938507
+real:3.41	user:1.69	sys:0.01	max RSS:36652
+===============
+xml
+===============
+******************************
+parser:symfony_xpath	file:../resources/test-docs/test_ozon_balls.xml
+311952
+0.14408302307129
+real:0.18	user:0.09	sys:0.00	max RSS:25036
+******************************
+parser:symfony_xpath	file:../resources/test-docs/test_ozon_childbooks.xml
+9
+9
+real:71.93	user:2.91	sys:1.06	max RSS:626412
+******************************
+parser:symfony_xpath	file:../resources/test-docs/test_ozon_complit.xml
+7944768
+19.997409820557
+real:20.48	user:9.80	sys:0.41	max RSS:240368
+******************************
+parser:symfony_xpath	file:../resources/test-docs/test_ozon_web.xml
+684424
+1.3994128704071
+real:1.46	user:0.72	sys:0.00	max RSS:36812
+===============
+xml
+===============
+******************************
+parser:zend_css	file:../resources/test-docs/test_ozon_balls.xml
+356640
+0.15168190002441
+real:0.19	user:0.08	sys:0.00	max RSS:25124
+******************************
+parser:zend_css	file:../resources/test-docs/test_ozon_childbooks.xml
+9
+9
+real:87.50	user:2.43	sys:1.31	max RSS:623956
+******************************
+parser:zend_css	file:../resources/test-docs/test_ozon_complit.xml
+31569560
+61.408462047577
+real:62.18	user:25.50	sys:5.70	max RSS:264392
+******************************
+parser:zend_css	file:../resources/test-docs/test_ozon_web.xml
+2335536
+1.5736920833588
+real:1.63	user:0.74	sys:0.06	max RSS:38812
+===============
+xml
+===============
+******************************
+parser:zend_xpath	file:../resources/test-docs/test_ozon_balls.xml
+332528
+0.14471507072449
+real:0.19	user:0.09	sys:0.00	max RSS:25176
+******************************
+parser:zend_xpath	file:../resources/test-docs/test_ozon_childbooks.xml
+9
+9
+real:41.86	user:2.58	sys:0.80	max RSS:616312
+******************************
+parser:zend_xpath	file:../resources/test-docs/test_ozon_complit.xml
+31545448
+61.603257894516
+real:62.21	user:25.48	sys:5.68	max RSS:264388
+******************************
+parser:zend_xpath	file:../resources/test-docs/test_ozon_web.xml
+2311424
+1.4696669578552
+real:1.52	user:0.73	sys:0.02	max RSS:38556

@@ -1,0 +1,22 @@
+﻿"DOMDocument";0 bytes;6.0774;4169
+"DOMDocument + DOMXPath";0 bytes;0.4812;4169
+"Регулярные выражения";0 bytes;0.1222;4168
+"Функции обработки строк";0 bytes;3.2663;4169
+"Expat SAX (Tidy, создание структуры)";0 bytes;2.1333;4173
+"Zend Dom Query (XPath)";0 bytes;1.49;4169
+"Zend Dom Query (CSS)";0 bytes;1.4959;4169
+"Symfony 2.8 DomCrawler (XPath)";0 bytes;0.7727;4169
+"Symfony 2.8 DomCrawler (CSS)";0 bytes;1.641;4169
+"DiDom (XPath)";0 bytes;0.9516;4169
+"DiDom (CSS)";0 bytes;0.8913;4169
+"Simple HTML DOM";2.00 MB;22.9274;4169
+"Advanced HTML DOM (XPath)";0 bytes;1.4641;4169
+"Advanced HTML DOM (CSS)";0 bytes;1.4644;4169
+"Nokogiri PHP";0 bytes;1.1079;4169
+"HTML5lib PHP (SAX-like)";0 bytes;92.6495;4169
+"phpQuery";0 bytes;76.0863;4169
+"QueryPath";0 bytes;7.3365;4169
+"Fluent DOM (XPath)";0 bytes;0.6572;4169
+"fDOMDocument (XPath)";0 bytes;0.5281;4169
+"fDOMDocument (CSS)";0 bytes;0.5273;4169
+"PhantomJS";0 bytes;13.1128;4169

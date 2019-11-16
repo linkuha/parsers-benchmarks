@@ -1,0 +1,24 @@
+doctype;parser;file;max mem dif;parser s;real s;user s;sys s;maximum RSS
+xhtml;didom_css;test_iana_longlist.xhtml;3803976;1.2737250328064;1.30;1.27;0.02;36624
+xhtml;didom_xpath;test_iana_longlist.xhtml;3803624;1.2616050243378;1.29;1.29;0.00;36408
+xhtml;dom;test_iana_longlist.xhtml;2409824;20.794867992401;20.82;20.80;0.03;34020
+xhtml;dom_xpath;test_iana_longlist.xhtml;3124592;1.1543049812317;1.18;1.14;0.04;36512
+xhtml;expat_struct;test_iana_longlist.xhtml;19751760;2.1048338413239;2.12;1.93;0.13;41028
+xhtml;fdom_css;test_iana_longlist.xhtml;3932776;1.797730922699;1.98;0.80;1.17;180832
+xhtml;fdom_xpath;test_iana_longlist.xhtml;3833312;1.1271870136261;1.31;1.23;0.07;180744
+xhtml;fluentdom_css;test_iana_longlist.xhtml;3696152;1.1216440200806;1.30;1.22;0.08;180684
+xhtml;fluentdom_xpath;test_iana_longlist.xhtml;3507904;1.1733968257904;1.20;1.18;0.02;36260
+xhtml;ganon_css;test_iana_longlist.xhtml;0;0;300.04;298.42;1.85;59664
+xhtml;html5lib;test_iana_longlist.xhtml;4402736;35.458231925964;35.49;35.49;0.03;35120
+xhtml;nokogiri_css;test_iana_longlist.xhtml;6983752;1.5402290821075;1.57;1.54;0.02;40572
+xhtml;phantomjs;test_iana_longlist.xhtml;3481928;38.347965955734;38.37;14.96;1.18;71292
+xhtml;phpquery_css;test_iana_longlist.xhtml;3824080;45.223489999771;45.40;45.26;0.18;182776
+xhtml;querypath_css;test_iana_longlist.xhtml;4098464;20.657778024673;20.68;20.67;0.02;36248
+xhtml;regexp;test_iana_longlist.xhtml;4351544;0.18661093711853;0.20;0.18;0.01;25960
+xhtml;shd_css;test_iana_longlist.xhtml;52646248;16.544383049011;16.71;16.66;0.04;75964
+xhtml;simplexml_xpath;test_iana_longlist.xhtml;604416;0.28096389770508;0.30;0.26;0.04;27968
+xhtml;string;test_iana_longlist.xhtml;3271728;0.64560508728027;0.66;0.65;0.01;24144
+xhtml;symfony_css;test_iana_longlist.xhtml;3936152;1.8345139026642;1.86;1.85;0.01;36584
+xhtml;symfony_xpath;test_iana_longlist.xhtml;3653752;1.2766470909119;1.31;1.29;0.01;36292
+xhtml;zend_css;test_iana_longlist.xhtml;3891656;4.611799955368;4.64;4.53;0.11;36364
+xhtml;zend_xpath;test_iana_longlist.xhtml;3867512;4.6614060401917;4.69;4.56;0.13;36492

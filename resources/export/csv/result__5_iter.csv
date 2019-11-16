@@ -1,0 +1,24 @@
+﻿"https://www.iana.org/domains";"DOMDocument";54200;0.0108;55
+"https://www.iana.org/domains";"DOMDocument + DOMXPath";65776;0.0143;55
+"https://www.iana.org/domains";"Регулярные выражения";56080;0.0065;56
+"https://www.iana.org/domains";"Функции обработки строк";58896;0.0322;56
+"https://www.iana.org/domains";"Expat SAX (Tidy, создание структуры)";108480;0.3524;0
+"https://www.iana.org/domains";"Zend Dom Query (XPath)";205808;0.0214;55
+"https://www.iana.org/domains";"Symfony 2.8 DomCrawler (XPath)";315600;0.0161;55
+"https://www.iana.org/domains";"Zend Dom Query (CSS)";247176;0.0339;55
+"https://www.iana.org/domains";"Symfony 2.8 DomCrawler (CSS)";971664;0.0701;55
+"https://www.iana.org/domains";"DiDom (XPath)";484216;0.028;55
+"https://www.iana.org/domains";"DiDom (CSS)";484824;0.0213;55
+"https://www.iana.org/domains";"Advanced HTML DOM (XPath)";345424;0.0399;55
+"https://www.iana.org/domains";"Advanced HTML DOM (CSS)";345904;0.0391;55
+"https://www.iana.org/domains";"Nokogiri PHP";150944;0.0261;55
+"https://www.iana.org/domains";"Simple HTML DOM";5220720;0.3101;55
+"https://www.iana.org/domains";"phpQuery";1388272;0.0665;55
+"https://www.iana.org/domains";"QueryPath";1363016;0.0805;55
+"https://www.iana.org/domains";"Fluent DOM (XPath)";541208;0.0283;55
+"https://www.iana.org/domains";"Fluent DOM (CSS)";950776;0.0378;55
+"https://www.iana.org/domains";"Ganon";11543128;1.1961;55
+"https://www.iana.org/domains";"fDOMDocument (XPath)";413720;0.0137;55
+"https://www.iana.org/domains";"fDOMDocument (CSS)";522352;0.0234;55
+"https://www.iana.org/domains";"HTML5lib PHP (SAX-like)";1621736;2.8881;55
+"https://www.iana.org/domains";"PhantomJS";109168;19.6318;55

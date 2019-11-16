@@ -1,0 +1,200 @@
+===============
+xhtml
+===============
+******************************
+parser:ahd_css	file:../resources/test-docs/test_iana_longlist.xhtml
+4720848
+0.24241399765015
+real:0.31	user:0.23	sys:0.07	max RSS:34700
+===============
+xhtml
+===============
+******************************
+parser:ahd_xpath	file:../resources/test-docs/test_iana_longlist.xhtml
+4720232
+0.2455780506134
+real:0.28	user:0.26	sys:0.02	max RSS:34768
+===============
+xhtml
+===============
+******************************
+parser:didom_css	file:../resources/test-docs/test_iana_longlist.xhtml
+6175472
+0.094156980514526
+real:0.13	user:0.10	sys:0.02	max RSS:36372
+===============
+xhtml
+===============
+******************************
+parser:didom_xpath	file:../resources/test-docs/test_iana_longlist.xhtml
+6174856
+0.11740112304688
+real:0.15	user:0.13	sys:0.02	max RSS:36292
+===============
+xhtml
+===============
+******************************
+parser:dom	file:../resources/test-docs/test_iana_longlist.xhtml
+3225584
+1.0567519664764
+real:1.08	user:1.06	sys:0.02	max RSS:32408
+===============
+xhtml
+===============
+******************************
+parser:dom_xpath	file:../resources/test-docs/test_iana_longlist.xhtml
+4846200
+0.076550960540771
+real:0.10	user:0.08	sys:0.02	max RSS:34284
+===============
+xhtml
+===============
+******************************
+parser:expat_struct	file:../resources/test-docs/test_iana_longlist.xhtml
+28539664
+0.14854907989502
+real:0.17	user:0.11	sys:0.05	max RSS:50696
+===============
+xhtml
+===============
+******************************
+parser:fdom_css	file:../resources/test-docs/test_iana_longlist.xhtml
+7080520
+0.069579839706421
+real:0.10	user:0.09	sys:0.01	max RSS:37572
+===============
+xhtml
+===============
+******************************
+parser:fdom_xpath	file:../resources/test-docs/test_iana_longlist.xhtml
+7028304
+0.094527959823608
+real:0.13	user:0.11	sys:0.01	max RSS:37404
+===============
+xhtml
+===============
+******************************
+parser:fluentdom_css	file:../resources/test-docs/test_iana_longlist.xhtml
+5388976
+0.10237693786621
+real:0.14	user:0.12	sys:0.02	max RSS:35812
+===============
+xhtml
+===============
+******************************
+parser:fluentdom_xpath	file:../resources/test-docs/test_iana_longlist.xhtml
+5096016
+0.081413984298706
+real:0.11	user:0.08	sys:0.02	max RSS:35120
+===============
+xhtml
+===============
+******************************
+parser:ganon_css	file:../resources/test-docs/test_iana_longlist.xhtml
+34021240
+22.132458925247
+real:22.27	user:22.20	sys:0.07	max RSS:55260
+===============
+xhtml
+===============
+******************************
+parser:html5lib	file:../resources/test-docs/test_iana_longlist.xhtml
+6355536
+3.8351120948792
+real:3.87	user:3.84	sys:0.02	max RSS:37356
+===============
+xhtml
+===============
+******************************
+parser:nokogiri_css	file:../resources/test-docs/test_iana_longlist.xhtml
+8214880
+0.11705303192139
+real:0.15	user:0.13	sys:0.02	max RSS:38756
+===============
+xhtml
+===============
+******************************
+parser:phantomjs	file:../resources/test-docs/test_iana_longlist.xhtml
+4599968
+3.7360920906067
+real:3.76	user:0.78	sys:0.12	max RSS:71544
+===============
+xhtml
+===============
+******************************
+parser:phpquery_css	file:../resources/test-docs/test_iana_longlist.xhtml
+5656120
+3.8080749511719
+real:3.85	user:3.83	sys:0.02	max RSS:36660
+===============
+xhtml
+===============
+******************************
+parser:querypath_css	file:../resources/test-docs/test_iana_longlist.xhtml
+6336744
+1.2036230564117
+real:1.24	user:1.21	sys:0.01	max RSS:36336
+===============
+xhtml
+===============
+******************************
+parser:regexp	file:../resources/test-docs/test_iana_longlist.xhtml
+5922584
+0.032429933547974
+real:0.05	user:0.04	sys:0.00	max RSS:27576
+===============
+xhtml
+===============
+******************************
+parser:shd_css	file:../resources/test-docs/test_iana_longlist.xhtml
+65624520
+1.2701320648193
+real:1.67	user:1.46	sys:0.20	max RSS:84748
+===============
+xhtml
+===============
+******************************
+parser:simplexml_xpath	file:../resources/test-docs/test_iana_longlist.xhtml
+610600
+0.016721963882446
+real:0.04	user:0.03	sys:0.01	max RSS:27064
+===============
+xhtml
+===============
+******************************
+parser:string	file:../resources/test-docs/test_iana_longlist.xhtml
+4287384
+0.08647894859314
+real:0.11	user:0.10	sys:0.01	max RSS:26024
+===============
+xhtml
+===============
+******************************
+parser:symfony_css	file:../resources/test-docs/test_iana_longlist.xhtml
+5825944
+0.16389012336731
+real:0.19	user:0.17	sys:0.02	max RSS:36616
+===============
+xhtml
+===============
+******************************
+parser:symfony_xpath	file:../resources/test-docs/test_iana_longlist.xhtml
+5381712
+0.079076051712036
+real:0.11	user:0.08	sys:0.03	max RSS:35664
+===============
+xhtml
+===============
+******************************
+parser:zend_css	file:../resources/test-docs/test_iana_longlist.xhtml
+6993624
+2.7557668685913
+real:2.79	user:2.77	sys:0.02	max RSS:37416
+===============
+xhtml
+===============
+******************************
+parser:zend_xpath	file:../resources/test-docs/test_iana_longlist.xhtml
+6965296
+2.6404409408569
+real:2.67	user:2.66	sys:0.01	max RSS:37312

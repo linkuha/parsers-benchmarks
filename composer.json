@@ -1,0 +1,51 @@
+{
+    "name": "linkuha/parsing",
+    "type": "project",
+    "description": "Parsing methods comparison",
+    "keywords": ["parsing"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexandr Pudich",
+            "email": "linkuha@gmail.com",
+            "homepage": "https://pudich.ru",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0",
+        "lib-libxml": ">=2.6.20",
+	    "ext-dom": "*",
+        "ext-xmlreader": "*",
+        "jonnyw/php-phantomjs": "^4.5",
+        "jakoch/phantomjs-installer": "~2.1",
+        "guzzlehttp/guzzle": "~6.2",
+        "guzzlehttp/psr7": "dev-master",
+        "zendframework/zend-dom": "~2.6",
+        "zendframework/zend-http": "~2.5",
+        "symfony/css-selector": "~2.8",
+        "symfony/dom-crawler": "~2.8",
+        "symfony/finder": "~2.8",
+        "imangazaliev/didom": "^1.8",
+        "olamedia/nokogiri": "^1.0",
+        "fiv/collection": "^0.0.1",
+        "fluentdom/fluentdom": "~5.3",
+        "electrolinux/phpquery": "^0.9.6",
+        "masterminds/html5": "2.*",
+        "querypath/QueryPath": "~3.0",
+        "fluentdom/selectors-phpcss": "^1.0",
+        "theseer/fdomdocument": "1.6.*",
+        "servo/fluidxml": "^1.20"
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "scripts": {
+        "post-install-cmd": [
+            "PhantomInstaller\\Installer::installPhantomJS"
+        ],
+        "post-update-cmd": [
+            "PhantomInstaller\\Installer::installPhantomJS"
+        ]
+    }
+}

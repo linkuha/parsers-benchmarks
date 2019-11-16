@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-5"?>
+<!DOCTYPE yml_catalog>
+<yml_catalog date="2016-12-05 14:20">
+  <shop>
+    <name>OZON.ru</name>
+    <company>ооо тест"</company>
+    <url>http://www.ozon.ru/</url>
+    <currencies>
+      <currency id="RUR" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1178077">что</category>
+    </categories>
+    <offers>
+      <offer id="ISO-8859-5 ссылка Ђєђї" available="true" group_id="29584016">
+        <url>http://www.ozon.ru/context/detail/id/29583956/?from=prt_xml_facet</url>
+        <price>609</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1178077</categoryId>
+        <picture>http://static.ozone.ru/multimedia/audio_cd_covers/1010805128.JPG</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>299</local_delivery_cost>
+        <name>что Larsen "Kicker Run". 5</name>
+        <vendor>Larsen</vendor>
+        <vendorCode>1319</vendorCode>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>

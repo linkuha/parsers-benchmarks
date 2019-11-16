@@ -1,0 +1,26 @@
+doctype;parser;file;max mem dif;parser s;real s;user s;sys s;maximum RSS
+xhtml;ahd_css;test_iana_longlist.xhtml;4726160;6.4531588554382;6.78;6.29;0.24;52712
+xhtml;ahd_xpath;test_iana_longlist.xhtml;4726776;6.5951640605927;6.91;6.40;0.19;52716
+xhtml;didom_css;test_iana_longlist.xhtml;6226200;2.5454380512238;2.67;2.35;0.11;24052
+xhtml;didom_xpath;test_iana_longlist.xhtml;6226712;2.4313411712646;2.59;2.36;0.11;23900
+xhtml;dom;test_iana_longlist.xhtml;3225848;31.13729596138;31.21;30.25;0.03;20412
+xhtml;dom_xpath;test_iana_longlist.xhtml;4846792;2.0650751590729;2.19;1.96;0.15;21548
+xhtml;expat_struct;test_iana_longlist.xhtml;28541136;4.9598960876465;5.06;4.20;0.58;38008
+xhtml;fdom_css;test_iana_longlist.xhtml;7134272;2.1252899169922;2.58;2.16;0.17;55848
+xhtml;fdom_xpath;test_iana_longlist.xhtml;7046936;2.063451051712;2.51;2.18;0.21;55676
+xhtml;fluentdom_css;test_iana_longlist.xhtml;5408792;2.2589650154114;2.65;2.13;0.23;53624
+xhtml;fluentdom_xpath;test_iana_longlist.xhtml;5103432;2.2613580226898;2.44;2.20;0.11;22748
+xhtml;ganon_css;test_iana_longlist.xhtml;9;9;313.79;302.70;0.32;50924
+xhtml;html5lib;test_iana_longlist.xhtml;6359048;101.25731706619;101.41;97.24;0.19;24460
+xhtml;nokogiri_css;test_iana_longlist.xhtml;8217096;3.1425268650055;3.29;3.09;0.10;26696
+xhtml;phantomjs;test_iana_longlist.xhtml;5674624;22.066992998123;22.16;14.94;1.44;54864
+xhtml;phpquery_css;test_iana_longlist.xhtml;5680960;128.50826907158;128.90;124.96;0.24;54244
+xhtml;querypath_css;test_iana_longlist.xhtml;6373776;32.215272903442;32.38;30.87;0.08;24976
+xhtml;regexp;test_iana_longlist.xhtml;5923384;0.84960007667542;0.91;0.82;0.05;14700
+xhtml;shd_css;test_iana_longlist.xhtml;81134824;74.914433956146;82.23;51.35;0.51;89412
+xhtml;simplexml_xpath;test_iana_longlist.xhtml;617416;0.48882293701172;0.55;0.40;0.12;14084
+xhtml;string;test_iana_longlist.xhtml;4310816;2.0653171539307;2.16;1.93;0.03;12852
+xhtml;symfony_css;test_iana_longlist.xhtml;5840816;4.1685030460358;4.32;4.02;0.08;25088
+xhtml;symfony_xpath;test_iana_longlist.xhtml;5399304;3.2766289710999;3.44;3.14;0.12;23412
+xhtml;zend_css;test_iana_longlist.xhtml;7054744;108.46886610985;108.63;104.18;0.08;26128
+xhtml;zend_xpath;test_iana_longlist.xhtml;7032560;108.35763311386;108.52;104.87;0.14;26256

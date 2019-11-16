@@ -1,0 +1,24 @@
+doctype;parser;file;max mem dif;parser s;real s;user s;sys s;maximum RSS
+xhtml;didom_css;test_iana_longlist.xhtml;3802928;15.412354946136;15.49;15.22;0.06;37888
+xhtml;didom_xpath;test_iana_longlist.xhtml;3802576;15.665827989578;15.75;15.32;0.19;37908
+xhtml;dom;test_iana_longlist.xhtml;2409896;237.58848500252;237.66;234.93;0.06;35372
+xhtml;dom_xpath;test_iana_longlist.xhtml;3124664;16.664452075958;16.75;16.26;0.32;37532
+xhtml;expat_struct;test_iana_longlist.xhtml;19751536;123.56862616539;123.75;117.08;5.18;44508
+xhtml;fdom_css;test_iana_longlist.xhtml;4269544;35.751166820526;42.34;39.46;2.46;793716
+xhtml;fdom_xpath;test_iana_longlist.xhtml;3891680;35.678460121155;42.22;39.18;2.72;793544
+xhtml;fluentdom_css;test_iana_longlist.xhtml;3763696;36.78244304657;43.17;40.22;2.55;793808
+xhtml;fluentdom_xpath;test_iana_longlist.xhtml;3508136;37.318747997284;37.51;37.10;0.12;37540
+xhtml;ganon_css;test_iana_longlist.xhtml;9;9;312.36;297.94;12.22;58600
+xhtml;html5lib;test_iana_longlist.xhtml;9;9;311.95;309.65;0.24;36332
+xhtml;nokogiri_css;test_iana_longlist.xhtml;6983600;61.389151096344;61.63;60.44;0.73;42184
+xhtml;phantomjs;test_iana_longlist.xhtml;9;9;311.50;257.50;13.62;70760
+xhtml;phpquery_css;test_iana_longlist.xhtml;9;9;312.21;305.28;0.82;191728
+xhtml;querypath_css;test_iana_longlist.xhtml;9;9;311.47;309.09;0.34;37728
+xhtml;regexp;test_iana_longlist.xhtml;4351544;7.8346059322357;7.99;7.83;0.08;27808
+xhtml;shd_css;test_iana_longlist.xhtml;9;9;312.50;309.30;1.02;77060
+xhtml;simplexml_xpath;test_iana_longlist.xhtml;604488;10.166190862656;10.36;10.01;0.32;29172
+xhtml;string;test_iana_longlist.xhtml;3271728;29.202491044998;29.40;29.19;0.06;25684
+xhtml;symfony_css;test_iana_longlist.xhtml;3936848;72.554135084152;72.83;72.00;0.12;38072
+xhtml;symfony_xpath;test_iana_longlist.xhtml;3653616;52.552660942078;52.83;52.22;0.10;38000
+xhtml;zend_css;test_iana_longlist.xhtml;3957200;190.56865811348;190.85;188.50;1.04;37760
+xhtml;zend_xpath;test_iana_longlist.xhtml;3933088;173.09625101089;173.36;171.31;0.90;37744
