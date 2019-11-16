@@ -17,6 +17,7 @@
         "lib-libxml": ">=2.6.20",
 	    "ext-dom": "*",
         "ext-xmlreader": "*",
+        "ext-simplexml": "*",
         "jonnyw/php-phantomjs": "^4.5",
         "jakoch/phantomjs-installer": "~2.1",
         "guzzlehttp/guzzle": "~6.2",

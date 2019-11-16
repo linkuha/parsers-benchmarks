@@ -12,6 +12,10 @@
 
 Веб-интерфейс (UI построен с помощью Ink framework) для запуска парсеров веб-страницы не предполагает качественного анализа, для полноценных нагрузочных тестов необходимо использовать сценарии. Используется для примерной визуализации работы проекта.
 
+![UI screenshot 1](https://i.ibb.co/nRvzm8n/parsers-benchmarks1.jpg "UI example")
+
+![UI screenshot 2](https://i.ibb.co/pwXmY7Z/parsers-benchmarks2.jpg "UI example")
+
 CLI скрипты для автоматизации запусков в Linux (bash) и Windows (PowerShell, batch) и получения результатов: `./cli `
 
 Ресурсы для анализа парсерами находятся в `./resources/test-docs`, из репозитория убраны тяжелые файлы объёмом от 100Мб до 2Гб, применяемые в анализе в рамках исследования.
@@ -29,6 +33,8 @@ CLI скрипты для автоматизации запусков в Linux (
 
 для php 7 debian расширение
 `apt-get install php-xml`
+
+_How to start analyze example_
 
 To run series of tests use snippets like
 ```
